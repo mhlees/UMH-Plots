@@ -1,0 +1,1225 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+5,Prevalence,16,Philippines,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,1394029.4927147264,1585063.0018537305,1221370.0442690486
+5,Prevalence,16,Philippines,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1283.2064058404912,1459.0530604044363,1124.27310390373
+5,Prevalence,6,China,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,49303509.31885663,54757581.235452615,44322689.95413609
+5,Prevalence,6,China,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3494.689607315858,3881.2805155048522,3141.643385854516
+5,Prevalence,7,Democratic People's Republic of Korea,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,810976.7886863387,958358.76978969,693967.0736643123
+5,Prevalence,7,Democratic People's Republic of Korea,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3109.1583002583584,3674.197788747636,2660.5613345413703
+5,Prevalence,7,Democratic People's Republic of Korea,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,982221.7116461092,1223347.3789559405,785931.1496093863
+5,Prevalence,7,Democratic People's Republic of Korea,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3765.6845794628803,4690.122714290507,3013.1372331850075
+5,Prevalence,17,Sri Lanka,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,665920.4176593118,783833.2362113228,577008.4784416592
+5,Prevalence,17,Sri Lanka,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3082.4286850173776,3628.2264178958953,2670.870930341012
+5,Prevalence,17,Sri Lanka,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,911568.1748425997,1147741.1200495309,735614.1765548367
+5,Prevalence,17,Sri Lanka,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4219.489019964688,5312.692113946593,3405.0288574844685
+5,Prevalence,39,Tajikistan,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,233511.39421442253,270037.7731400658,197099.35410153
+5,Prevalence,39,Tajikistan,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2567.242325264025,2968.81615973155,2166.9255405456224
+5,Prevalence,49,North Macedonia,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,50083.323722198336,58604.00790696714,42801.74403941186
+5,Prevalence,49,North Macedonia,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2329.848379857969,2726.2258717608497,1991.1133406092174
+5,Prevalence,7,Democratic People's Republic of Korea,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,373485.93439187284,424839.2765505985,324634.01916409435
+5,Prevalence,7,Democratic People's Republic of Korea,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1431.8867187620183,1628.7674091174647,1244.5961084351782
+5,Prevalence,17,Sri Lanka,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,313104.2955335802,358266.9366273476,272378.2305380677
+5,Prevalence,17,Sri Lanka,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1449.3048063419299,1658.3547419001366,1260.7910025284025
+5,Prevalence,39,Tajikistan,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,217225.15732429398,254993.2736645531,186645.31881551075
+5,Prevalence,39,Tajikistan,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2388.190177490793,2803.4157691172786,2051.9930682079853
+5,Prevalence,39,Tajikistan,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,206340.74864351423,262780.2478861088,160501.74905499961
+5,Prevalence,39,Tajikistan,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,2268.526146770689,2889.0263658702615,1764.5686405971996
+5,Prevalence,40,Turkmenistan,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,144359.02493623423,167472.9771815579,125133.07796516136
+5,Prevalence,40,Turkmenistan,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2903.605752928696,3368.51471682677,2516.8992740274434
+5,Prevalence,40,Turkmenistan,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,114182.2200715232,143372.96094345045,90045.92796145738
+5,Prevalence,40,Turkmenistan,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,2296.6361211451235,2883.7722781357793,1811.1640375250583
+5,Prevalence,27,Samoa,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,3212.790941030421,3854.3252387577572,2638.364520012791
+5,Prevalence,27,Samoa,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1567.8896376683279,1880.9678914600033,1287.5610231872408
+5,Prevalence,61,Republic of Moldova,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,151516.96451842232,173158.87117040288,132484.75846348738
+5,Prevalence,61,Republic of Moldova,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4062.6451942533163,4642.932611794984,3552.33203749971
+5,Prevalence,62,Russian Federation,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,5005219.749485766,5777370.087348593,4317604.415071331
+5,Prevalence,62,Russian Federation,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3415.1439262611916,3941.9948276194564,2945.972650979865
+5,Prevalence,62,Russian Federation,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,5503737.197739535,6120395.657546487,4914707.716887435
+5,Prevalence,62,Russian Federation,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3755.290597286776,4176.046827580892,3353.386074687642
+5,Prevalence,28,Solomon Islands,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,15377.7117310122,18067.789950420425,13088.028859233214
+5,Prevalence,28,Solomon Islands,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2430.6154644301996,2855.8117377765266,2068.7060533203958
+5,Prevalence,40,Turkmenistan,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,153866.86708762223,182949.60766567092,130437.42761957122
+5,Prevalence,40,Turkmenistan,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3094.8444037917266,3679.8082665682714,2623.5897991185693
+5,Prevalence,71,Australia,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,950345.7351844348,1040521.51009356,854985.5962392347
+5,Prevalence,71,Australia,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3969.1096366298348,4345.727875583588,3570.8389521569898
+5,Prevalence,28,Solomon Islands,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,23050.323336598514,29115.32108982922,18184.06849556637
+5,Prevalence,28,Solomon Islands,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3643.3556137656165,4601.9948176081125,2874.190833116389
+5,Prevalence,20,Viet Nam,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,2547891.4818301606,3034395.932145516,2158753.4441307792
+5,Prevalence,20,Viet Nam,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2679.2934244866324,3190.8882800795855,2270.0864417478433
+5,Prevalence,20,Viet Nam,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,2281721.501461129,2815210.6210917262,1815426.4186846525
+5,Prevalence,20,Viet Nam,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,2399.396308269491,2960.398964958267,1909.0530742413064
+5,Prevalence,8,Taiwan (Province of China),3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,804600.9772938509,952940.5882232615,690083.0769886832
+5,Prevalence,8,Taiwan (Province of China),3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3409.4792413680125,4038.065134760139,2924.2121153340304
+5,Prevalence,8,Taiwan (Province of China),3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,933453.7457903485,1166631.5254566106,743767.9957796667
+5,Prevalence,8,Taiwan (Province of China),3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3955.490061363774,4943.575860108779,3151.7007977465273
+5,Prevalence,63,Ukraine,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,1555604.558625217,1804686.7531824051,1344133.040512811
+5,Prevalence,63,Ukraine,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3480.1363123477904,4037.373037601301,3007.0406884440517
+5,Prevalence,6,China,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,47918741.08986792,55151239.82351377,41276723.674621165
+5,Prevalence,6,China,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3396.535638049878,3909.1834902734613,2925.7417827371046
+5,Prevalence,83,Iceland,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,10987.833061793432,12681.026333556401,9680.51698018922
+5,Prevalence,83,Iceland,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3249.43744909129,3750.166354861356,2862.824200648776
+5,Prevalence,83,Iceland,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,17898.469823318606,22416.355559414675,14484.467210469027
+5,Prevalence,83,Iceland,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,5293.1235666069515,6629.20020874605,4283.498840867057
+5,Prevalence,30,Vanuatu,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,7114.985681102531,8303.05843733746,6068.872149527502
+5,Prevalence,30,Vanuatu,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2506.3244573233083,2924.834899858689,2137.820563311667
+5,Prevalence,28,Solomon Islands,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,8072.406711277506,9668.843889911257,6737.157380920449
+5,Prevalence,28,Solomon Islands,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1275.9321367711539,1528.2664867871624,1064.8813817559728
+5,Prevalence,105,Antigua and Barbuda,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,2885.1843284724014,3353.962941567587,2501.5567992482697
+5,Prevalence,105,Antigua and Barbuda,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3275.7849729752165,3808.027548007649,2840.221365114713
+5,Prevalence,148,Morocco,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,1838421.189992851,2133192.795732385,1579559.1720118
+5,Prevalence,148,Morocco,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,5180.320004469652,6010.9301248676275,4450.896248126943
+5,Prevalence,148,Morocco,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,1727936.1012919922,2147148.891606466,1376461.1220037295
+5,Prevalence,148,Morocco,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4868.9941133691,6050.25573916882,3878.604709576042
+5,Prevalence,30,Vanuatu,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,10606.294796946548,13415.655844674402,8312.176753282103
+5,Prevalence,30,Vanuatu,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3736.1728108283187,4725.798176073,2928.046917322387
+5,Prevalence,8,Taiwan (Province of China),3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,323867.6382716445,359728.4612899868,286745.5268177302
+5,Prevalence,8,Taiwan (Province of China),3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1372.3821133699428,1524.3415754012158,1215.077968868952
+5,Prevalence,63,Ukraine,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,1616744.060805773,1802102.354515252,1452366.7623378672
+5,Prevalence,63,Ukraine,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3616.9151617524626,4031.591324249231,3249.1768428127516
+5,Prevalence,169,Central African Republic,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,58126.6244294129,67875.1615822913,48984.79238473485
+5,Prevalence,169,Central African Republic,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1152.217509069013,1345.4583054444606,971.0031507565393
+5,Prevalence,6,China,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,29318189.475052014,33110142.573313516,26227601.90897587
+5,Prevalence,6,China,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2078.1070856673355,2346.885094920632,1859.042674292158
+5,Prevalence,72,New Zealand,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,202957.57540721344,232822.56712572917,175850.54338256526
+5,Prevalence,72,New Zealand,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,4561.8723782502475,5233.1470548619345,3952.588293133056
+5,Prevalence,50,Montenegro,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,21138.425441981653,24255.26526676606,18643.772142325684
+5,Prevalence,50,Montenegro,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3392.6973805308307,3892.9472377448355,2992.307874779546
+5,Prevalence,106,Bahamas,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,17402.72788133336,21878.649658062455,13799.322237709306
+5,Prevalence,106,Bahamas,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4664.091716988289,5863.6800704395855,3698.3457414160885
+5,Prevalence,43,Albania,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,78767.55288720902,92056.53609548109,69012.98036138705
+5,Prevalence,43,Albania,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2865.009472864818,3348.3691988037403,2510.2067442559273
+5,Prevalence,84,Ireland,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,217036.89827608282,242332.2360121286,194083.25244995902
+5,Prevalence,84,Ireland,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,4462.052679858934,4982.098489716961,3990.149617824274
+5,Prevalence,50,Montenegro,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,25166.82511700359,31503.259929587333,20219.830054414047
+5,Prevalence,50,Montenegro,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4039.251735427802,5056.243556770475,3245.2636857307066
+5,Prevalence,93,Sweden,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,477247.7979698157,526296.0787239021,432777.0548216051
+5,Prevalence,93,Sweden,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4749.181321968233,5237.269857573575,4306.644711779648
+5,Prevalence,93,Sweden,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,501141.0491173272,575135.4414536847,431939.6656840278
+5,Prevalence,93,Sweden,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4986.947494077494,5723.279411184515,4298.311697215057
+5,Prevalence,29,Tonga,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,1374.3608639132212,1645.5887315776242,1144.178215283214
+5,Prevalence,29,Tonga,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1331.7537693944034,1594.5731966723342,1108.707102386316
+5,Prevalence,12,Lao People's Democratic Republic,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,175488.18798422173,206886.22275509158,150457.75875407024
+5,Prevalence,12,Lao People's Democratic Republic,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2517.0608551263726,2967.4089107844493,2158.0445912631317
+5,Prevalence,12,Lao People's Democratic Republic,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,302714.45730504085,372005.44219101395,245078.6113493114
+5,Prevalence,12,Lao People's Democratic Republic,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4341.8917222613845,5335.745654386533,3515.2096909881225
+5,Prevalence,106,Bahamas,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,11470.658082302258,13016.015701123919,9982.236983335006
+5,Prevalence,106,Bahamas,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3074.242251840097,3488.4123588991183,2675.331657683759
+5,Prevalence,29,Tonga,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,2419.681691121165,2850.6207451963523,2076.479819077739
+5,Prevalence,29,Tonga,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2344.6681999588013,2762.247545175173,2012.1060623440424
+5,Prevalence,29,Tonga,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,3974.4781539293554,5005.0274582841275,3116.319496537052
+5,Prevalence,29,Tonga,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3851.263814221457,4849.8646596453455,3019.70926641035
+5,Prevalence,53,Serbia,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,311124.31169679645,356226.9961447835,270422.62834519445
+5,Prevalence,53,Serbia,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3524.6209284283896,4035.5738162522116,3063.525476964194
+5,Prevalence,193,Botswana,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,88012.82727619466,102354.40416300988,75355.315390324
+5,Prevalence,193,Botswana,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3884.7262412224068,4517.737380586053,3326.0466703761945
+5,Prevalence,193,Botswana,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,80790.9429992863,102601.79341703521,63034.40685454478
+5,Prevalence,193,Botswana,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3565.9653943115654,4528.656692652837,2782.224159659185
+5,Prevalence,50,Montenegro,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,16087.100862618507,18337.07674123441,13895.852957642455
+5,Prevalence,50,Montenegro,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2581.9645416231397,2943.083551673782,2230.2713160463063
+5,Prevalence,149,Palestine,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,37606.174742822186,44703.35203354511,31642.17097516023
+5,Prevalence,149,Palestine,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,784.2111404483142,932.2103861887763,659.8422508108771
+5,Prevalence,22,Fiji,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,25882.634472954724,30197.664371664552,22323.90791151927
+5,Prevalence,22,Fiji,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2862.5140329702263,3339.738778026595,2468.9333589373196
+5,Prevalence,22,Fiji,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,36042.388018530495,44909.82719577075,28782.25880826769
+5,Prevalence,22,Fiji,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3986.141425928176,4966.84410933869,3183.200683274251
+5,Prevalence,44,Bosnia and Herzegovina,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,116949.14472531545,135318.8966356779,101238.893040127
+5,Prevalence,44,Bosnia and Herzegovina,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3442.9482388595943,3983.748303166344,2980.4430747679407
+5,Prevalence,128,Guatemala,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,546807.3010847014,631964.3041394408,473492.3103704627
+5,Prevalence,128,Guatemala,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3204.324584925425,3703.349886755846,2774.6942074173085
+5,Prevalence,128,Guatemala,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,705845.685897151,896892.2440560695,552448.8414672472
+5,Prevalence,128,Guatemala,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4136.29935078983,5255.843991030801,3237.384360295617
+5,Prevalence,54,Slovakia,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,208920.00957594524,262336.7754445777,167438.80524502357
+5,Prevalence,54,Slovakia,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3846.15286522474,4829.539030646087,3082.4967022072324
+5,Prevalence,51,Poland,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,1004952.5426406123,1123666.5914813217,896516.4333282957
+5,Prevalence,51,Poland,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2611.5613837307133,2920.062544237344,2329.7694147906222
+5,Prevalence,51,Poland,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,1337077.64417837,1542136.8712888146,1153002.3422440856
+5,Prevalence,51,Poland,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3474.6519804911954,4007.5376006341717,2996.2971031882344
+5,Prevalence,22,Fiji,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,11508.014642361279,14230.59531547272,9472.109254580768
+5,Prevalence,22,Fiji,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1272.7395829743527,1573.8459247889205,1047.576733017522
+5,Prevalence,115,Jamaica,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,88408.65464592609,102140.34788104892,76520.56582390089
+5,Prevalence,115,Jamaica,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3156.7904942973782,3647.1053718266317,2732.3048380114483
+5,Prevalence,94,Switzerland,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,615703.631806208,739287.2749724181,509423.60134061234
+5,Prevalence,94,Switzerland,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,7152.427190786466,8588.05784822697,5917.806927934094
+5,Prevalence,44,Bosnia and Herzegovina,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,136511.98847274648,170608.2364778675,109950.71626370313
+5,Prevalence,44,Bosnia and Herzegovina,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4018.872574052472,5022.65603306515,3236.9165743845215
+5,Prevalence,13,Malaysia,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,363847.6550190263,415911.2075104364,317418.46526382794
+5,Prevalence,13,Malaysia,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1189.7881784962815,1360.036903286225,1037.9639181337761
+5,Prevalence,52,Romania,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,652443.7460956641,749557.9874446141,568791.3192065852
+5,Prevalence,52,Romania,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3342.238985514881,3839.7209606698243,2913.7171335472494
+5,Prevalence,10,Cambodia,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,194275.2891148863,224650.713963406,165884.1069598911
+5,Prevalence,10,Cambodia,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1203.573824739661,1391.755586967823,1027.684838287242
+5,Prevalence,194,Lesotho,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,50823.573873553156,59457.00792616101,42948.066148698534
+5,Prevalence,194,Lesotho,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2466.3316423589044,2885.2890269604172,2084.1543883590957
+5,Prevalence,380,Palau,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,646.850477714212,775.1323320025356,538.5036205577668
+5,Prevalence,380,Palau,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3598.3816828948657,4312.004213328918,2995.656076865042
+5,Prevalence,380,Palau,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,754.2614812461308,937.6492248636553,597.146144860816
+5,Prevalence,380,Palau,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4195.901203969373,5216.073748067381,3321.880131049075
+5,Prevalence,115,Jamaica,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,119812.90513714611,149914.2760441032,95203.78540958543
+5,Prevalence,115,Jamaica,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4278.135908140132,5352.959656165354,3399.422895934268
+5,Prevalence,51,Poland,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,1661777.7834310061,1874693.8917452588,1473621.2449062336
+5,Prevalence,51,Poland,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,4318.447392696466,4871.750621311289,3829.486641558326
+5,Prevalence,10,Cambodia,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,713925.5697947884,896079.2433202846,563746.7954155508
+5,Prevalence,10,Cambodia,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4422.910049611217,5551.388069303233,3492.522851641614
+5,Prevalence,18,Thailand,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,2472927.4182736,2898198.6678217463,2132372.434337828
+5,Prevalence,18,Thailand,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3541.549463806384,4150.59247682816,3053.8310164949303
+5,Prevalence,18,Thailand,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,2645567.4637213983,3309116.734391922,2127664.118817952
+5,Prevalence,18,Thailand,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3788.7921672796638,4739.079889590935,3047.0881043570203
+5,Prevalence,82,Greece,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,210436.0233887949,245095.6544526309,181124.2315308622
+5,Prevalence,82,Greece,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2011.367591981805,2342.647653015108,1731.2026883852595
+5,Prevalence,45,Bulgaria,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,173447.4231593267,199623.4742482798,150620.09625952857
+5,Prevalence,45,Bulgaria,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2462.2821672369178,2833.880791367563,2138.22246702777
+5,Prevalence,33,Armenia,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,102769.81798512126,129592.99336813262,83095.20505405427
+5,Prevalence,33,Armenia,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3383.2226289255573,4266.252060276515,2735.52667121379
+5,Prevalence,44,Bosnia and Herzegovina,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,87283.63099358477,101498.7557537408,75749.2077146811
+5,Prevalence,44,Bosnia and Herzegovina,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2569.6042866877215,2988.0933562153446,2230.034276084933
+5,Prevalence,173,Gabon,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,83811.0754266383,97516.86074302532,71659.62344509533
+5,Prevalence,173,Gabon,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4945.233813827285,5753.937349089545,4228.242999423232
+5,Prevalence,173,Gabon,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,65571.12684191507,83041.32015855826,51442.41338388172
+5,Prevalence,173,Gabon,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3868.9940681316302,4899.814759594849,3035.33585311801
+5,Prevalence,54,Slovakia,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,178170.16727592074,201228.70947744593,156003.7266677355
+5,Prevalence,54,Slovakia,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3280.057763527667,3704.558405358544,2871.9804365638556
+5,Prevalence,53,Serbia,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,329978.94776874327,408976.09949447575,267949.164097177
+5,Prevalence,53,Serbia,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3738.2186525491848,4633.150368879011,3035.5044463776226
+5,Prevalence,298,American Samoa,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,728.2426637421149,884.9143516372552,604.735899980903
+5,Prevalence,298,American Samoa,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1307.8771543661176,1589.2494654596546,1086.0669216300364
+5,Prevalence,115,Jamaica,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,62026.32758479823,73674.10665364281,52274.377297227715
+5,Prevalence,115,Jamaica,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2214.761915561952,2630.6668786163673,1866.5509390240145
+5,Prevalence,25,Micronesia (Federated States of),3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,2769.167640960707,3250.8676572387913,2380.4091864310494
+5,Prevalence,25,Micronesia (Federated States of),3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2696.4134396361505,3165.457775758237,2317.8688163130646
+5,Prevalence,25,Micronesia (Federated States of),3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,4078.584192229656,5168.9524694830925,3222.7201795803976
+5,Prevalence,25,Micronesia (Federated States of),3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3971.427756103714,5033.148842776199,3138.049815356236
+5,Prevalence,30,Vanuatu,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,3543.0405386385355,4154.272975866571,2991.4073971182165
+5,Prevalence,30,Vanuatu,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1248.0712615997384,1463.3839656861046,1053.753002079612
+5,Prevalence,94,Switzerland,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,384380.9919598012,428561.64420754125,345448.36330758396
+5,Prevalence,94,Switzerland,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4465.227938398909,4978.46008795829,4012.960358030703
+5,Prevalence,45,Bulgaria,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,273649.8672692772,342520.3987201416,220197.879393029
+5,Prevalence,45,Bulgaria,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3884.769090082954,4862.464107689643,3125.957721463479
+5,Prevalence,95,United Kingdom,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,3315230.721860404,3671837.6667020284,3000852.4508226644
+5,Prevalence,95,United Kingdom,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,4983.538961733466,5519.599571911957,4510.957565781698
+5,Prevalence,13,Malaysia,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,1139376.82235681,1292122.0790522804,1007953.1317120348
+5,Prevalence,13,Malaysia,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3725.7820832235466,4225.261736948806,3296.024322395518
+5,Prevalence,13,Malaysia,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,1452259.8222947735,1835456.759989343,1155196.0828860153
+5,Prevalence,13,Malaysia,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4748.914950629757,6001.97562098404,3777.5113410889503
+5,Prevalence,52,Romania,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,506396.32397886226,572891.0947988576,442712.3302414503
+5,Prevalence,52,Romania,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2594.0895996808536,2934.7188366034175,2267.858981491657
+5,Prevalence,204,Chad,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,483541.7851644283,561534.1741446648,414347.91867818806
+5,Prevalence,204,Chad,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3175.7679623538716,3688.0002819385195,2721.321891465357
+5,Prevalence,36,Kazakhstan,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,378801.5933113344,476135.0119846876,297553.9376314933
+5,Prevalence,36,Kazakhstan,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,2113.9628821193146,2657.147593848168,1660.5473437500486
+5,Prevalence,53,Serbia,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,233738.83032103698,268701.34437403036,202407.69613925784
+5,Prevalence,53,Serbia,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2647.947274331831,3044.025639502292,2293.007569857319
+5,Prevalence,85,Israel,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,375277.73145590676,425252.574305979,329975.6974744316
+5,Prevalence,85,Israel,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4182.99137528126,4740.030386927093,3678.0373064852165
+5,Prevalence,85,Israel,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,333243.3858332964,415232.0027666575,265070.46925117134
+5,Prevalence,85,Israel,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3714.4602303000943,4628.3372039562955,2954.5784196089003
+5,Prevalence,35,Georgia,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,150500.60531686593,171644.68729407323,132302.31904659214
+5,Prevalence,35,Georgia,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4035.710120086446,4602.6937905886025,3547.718673709561
+5,Prevalence,110,Dominica,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,2275.0876038217684,2617.509092188535,1992.8583705884266
+5,Prevalence,110,Dominica,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3300.7549365959817,3797.5487375135904,2891.289589731198
+5,Prevalence,110,Dominica,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,3131.8646692966718,3923.631837070063,2524.6352607685867
+5,Prevalence,110,Dominica,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4543.788885564769,5692.504822161019,3662.8050217001773
+5,Prevalence,110,Dominica,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,2081.2766431386513,2383.33252839814,1797.9545275541388
+5,Prevalence,110,Dominica,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3019.569067459962,3457.799425149623,2608.5181390950697
+5,Prevalence,128,Guatemala,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,577297.3385840604,670770.3829741853,497286.78524849814
+5,Prevalence,128,Guatemala,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3382.9980893952566,3930.755907502201,2914.1313010439517
+5,Prevalence,95,United Kingdom,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,3140877.1467208443,3474056.910371226,2821658.1088806917
+5,Prevalence,95,United Kingdom,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4721.446242485882,5222.290519315295,4241.588083017952
+5,Prevalence,95,United Kingdom,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,3107402.2736445284,3614066.9059679047,2677093.6291315686
+5,Prevalence,95,United Kingdom,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4671.125963684506,5432.75709815317,4024.275088009209
+5,Prevalence,34,Azerbaijan,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,262295.15180987807,334811.16657669743,207164.22500982566
+5,Prevalence,34,Azerbaijan,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,2598.091093097457,3316.3781478622313,2052.007153363616
+5,Prevalence,10,Cambodia,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,448504.3257444246,525959.7113332617,387938.13971068413
+5,Prevalence,10,Cambodia,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2778.572968326815,3258.4243951581166,2403.3534717730604
+5,Prevalence,75,Austria,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,335868.09799204615,383594.91838625696,295240.4668748461
+5,Prevalence,75,Austria,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3815.8905442395558,4358.1281778155835,3354.308767518839
+5,Prevalence,216,Senegal,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,436680.75965064374,507241.3760400101,376609.20655781607
+5,Prevalence,216,Senegal,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3005.0046029674972,3490.5652152736207,2591.624142386246
+5,Prevalence,216,Senegal,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,392910.52319324686,502805.8267666919,301059.28305639623
+5,Prevalence,216,Senegal,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,2703.8011285284565,3460.0421256058426,2071.7297736551
+5,Prevalence,18,Thailand,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,1461076.6162363496,1654014.309778655,1282308.3676317635
+5,Prevalence,18,Thailand,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2092.449243991276,2368.7607847439826,1836.430167041104
+5,Prevalence,58,Estonia,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,48928.72220960444,61091.77055242483,39433.37922216293
+5,Prevalence,58,Estonia,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3721.778639122162,4646.964735644283,2999.512389241202
+5,Prevalence,385,Puerto Rico,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,88831.92475398559,101362.9358120208,77906.9163354622
+5,Prevalence,385,Puerto Rico,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2457.288555023853,2803.924183386794,2155.078530590354
+5,Prevalence,66,Brunei Darussalam,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,8266.166071967964,9678.722801330703,7013.0697588952235
+5,Prevalence,66,Brunei Darussalam,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1930.9556085078782,2260.925308505589,1638.235460780155
+5,Prevalence,126,Costa Rica,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,160605.34355464374,185551.2757220957,141467.2920953594
+5,Prevalence,126,Costa Rica,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3452.992131725303,3989.326138964966,3041.5267368458426
+5,Prevalence,126,Costa Rica,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,204951.5359295914,257356.58482502136,164066.65747918605
+5,Prevalence,126,Costa Rica,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4406.428984781013,5533.130111241557,3527.4098907011075
+5,Prevalence,153,Syrian Arab Republic,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,100891.06795660936,116623.52901123317,87387.29049282066
+5,Prevalence,153,Syrian Arab Republic,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,701.5719990904275,810.9717148061108,607.6700081370068
+5,Prevalence,33,Armenia,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,79135.75803302562,91206.03082828889,66923.51168531804
+5,Prevalence,33,Armenia,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2605.180125679229,3002.538230022193,2203.1481964258423
+5,Prevalence,119,Trinidad and Tobago,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,59097.64818536808,67842.3828556489,51408.84966431578
+5,Prevalence,119,Trinidad and Tobago,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4274.998469431019,4907.574019878839,3718.8070994096265
+5,Prevalence,119,Trinidad and Tobago,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,57509.226038875626,72659.24801212516,46010.750732869026
+5,Prevalence,119,Trinidad and Tobago,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4160.095381853553,5256.015824310745,3328.3200770261265
+5,Prevalence,114,Haiti,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,520593.99660853675,652352.2046730751,412362.1565392863
+5,Prevalence,114,Haiti,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4370.9154125537825,5477.159407128333,3462.1991750066327
+5,Prevalence,23,Kiribati,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,3018.4960726720146,3534.5691924952516,2579.9649673659997
+5,Prevalence,23,Kiribati,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2608.47973948771,3054.452251872489,2229.51634984404
+5,Prevalence,23,Kiribati,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,4444.069641059164,5588.3430623299,3474.7099479386948
+5,Prevalence,23,Kiribati,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3840.411032674829,4829.252483502625,3002.723966366191
+5,Prevalence,76,Belgium,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,382157.69638163946,434254.5248456618,333520.89286799397
+5,Prevalence,76,Belgium,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3373.1061001178577,3832.9375559608866,2943.814474761511
+5,Prevalence,19,Timor-Leste,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,14149.457381895683,16769.59599929713,11971.290978959381
+5,Prevalence,19,Timor-Leste,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1102.957202460617,1307.1983038335768,933.1680538427877
+5,Prevalence,25,Micronesia (Federated States of),3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,1499.905056532396,1839.4707350852352,1249.1032832552107
+5,Prevalence,25,Micronesia (Federated States of),3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1460.4981268700153,1791.1424135306063,1216.2856558927924
+5,Prevalence,94,Switzerland,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,327344.038394901,371851.9949405132,285671.61398363125
+5,Prevalence,94,Switzerland,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3802.6483522424005,4319.682688501402,3318.553462967859
+5,Prevalence,139,Algeria,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,1944350.1256437192,2426079.6547291363,1525768.1751292795
+5,Prevalence,139,Algeria,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4786.6361312576455,5972.56655551731,3756.163552374054
+5,Prevalence,34,Azerbaijan,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,291489.0930046072,342071.9976567895,251971.9875630558
+5,Prevalence,34,Azerbaijan,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2887.2634932240694,3388.298274587815,2495.837883698864
+5,Prevalence,55,Slovenia,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,74589.07986762804,84239.0480838939,65370.83171687522
+5,Prevalence,55,Slovenia,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3597.3033306832094,4062.704738864762,3152.7230404501433
+5,Prevalence,49,North Macedonia,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,66840.13783707265,78156.02191421486,58427.10029949449
+5,Prevalence,49,North Macedonia,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3109.3660579112943,3635.774695046233,2717.996228198435
+5,Prevalence,49,North Macedonia,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,86184.28157465735,109204.23076009854,69370.11689522225
+5,Prevalence,49,North Macedonia,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4009.244871800309,5080.120111862327,3227.059277362939
+5,Prevalence,117,Saint Vincent and the Grenadines,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,4041.383537303079,4616.624808630203,3550.2628799829745
+5,Prevalence,117,Saint Vincent and the Grenadines,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3579.846631327243,4089.393797131511,3144.813278403792
+5,Prevalence,117,Saint Vincent and the Grenadines,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,5095.23949968061,6418.14193676254,4089.6027599134363
+5,Prevalence,117,Saint Vincent and the Grenadines,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4513.349398881673,5685.1728076845575,3622.5590885918405
+5,Prevalence,82,Greece,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,617178.9248452145,684304.0275028963,554290.2769193935
+5,Prevalence,82,Greece,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,5899.055056720567,6540.6431931997795,5297.9593588236
+5,Prevalence,82,Greece,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,639721.4209084229,795111.3576792284,517289.6957768209
+5,Prevalence,82,Greece,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,6114.518385164785,7599.75022859042,4944.30427355731
+5,Prevalence,36,Kazakhstan,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,785652.533363413,915671.7072672405,687077.5777505646
+5,Prevalence,36,Kazakhstan,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,4384.459630316888,5110.052427310763,3834.3463231089863
+5,Prevalence,214,Nigeria,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,1251655.5292806216,1423477.6204077774,1108583.6990475643
+5,Prevalence,214,Nigeria,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,614.9058802308368,699.3176147025175,544.6184028477759
+5,Prevalence,11,Indonesia,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,6256963.073986675,7043684.247336475,5524677.495289374
+5,Prevalence,11,Indonesia,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2444.2495317357157,2751.577997131565,2158.1860434806617
+5,Prevalence,60,Lithuania,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,92773.16199569724,103530.59881756992,83759.69849120095
+5,Prevalence,60,Lithuania,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3252.416538290089,3629.547862440624,2936.424961214625
+5,Prevalence,33,Armenia,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,104585.07625978773,120485.40047803473,91831.65369086328
+5,Prevalence,33,Armenia,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3442.981641762237,3966.426537910778,3023.133979507138
+5,Prevalence,11,Indonesia,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,2523386.6605793256,2890283.8002090133,2195403.7680161954
+5,Prevalence,11,Indonesia,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,985.7476527473433,1129.0740798223944,857.622870471145
+5,Prevalence,36,Kazakhstan,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,630862.0358256657,732182.61910533,552863.7454773164
+5,Prevalence,36,Kazakhstan,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3520.626499523698,4086.0622210990546,3085.34456413422
+5,Prevalence,162,Bhutan,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,28586.85480341635,33232.923902833514,24849.504652046
+5,Prevalence,162,Bhutan,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3757.876073322909,4368.6236362768495,3266.583875981005
+5,Prevalence,86,Italy,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,2652010.4128479976,2940360.5497155166,2387574.9621927603
+5,Prevalence,86,Italy,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4376.83760203799,4852.726277090072,3940.417360951235
+5,Prevalence,37,Kyrgyzstan,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,125768.13769484546,157430.72354114847,98964.34172598322
+5,Prevalence,37,Kyrgyzstan,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,1985.844928524078,2485.7886080544154,1562.6202289653702
+5,Prevalence,139,Algeria,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,372389.5942633112,429541.21253983374,322100.24336438306
+5,Prevalence,139,Algeria,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,916.755404953111,1057.452287368606,792.9521758661639
+5,Prevalence,48,Hungary,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,363917.1222856839,420825.9244417486,320627.8292212092
+5,Prevalence,48,Hungary,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3730.3350039798843,4313.6790779932035,3286.59780304328
+5,Prevalence,48,Hungary,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,379005.01821355236,472967.05720324174,304676.1124308622
+5,Prevalence,48,Hungary,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3884.9935865786724,4848.152123574912,3123.084618659798
+5,Prevalence,86,Italy,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,1344736.0122465398,1514212.1784350246,1203773.4928791705
+5,Prevalence,86,Italy,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2219.3318377263163,2499.032721715838,1986.689442260552
+5,Prevalence,107,Barbados,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,14057.802270091534,17541.76443204301,11203.969044594334
+5,Prevalence,107,Barbados,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4760.971015776823,5940.8882286119815,3794.4602476349282
+5,Prevalence,61,Republic of Moldova,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,112222.61684339395,125539.61035580428,99751.86001483545
+5,Prevalence,61,Republic of Moldova,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3009.0404493941155,3366.1108267413224,2674.6603325585197
+5,Prevalence,61,Republic of Moldova,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,169015.062422329,213370.212255838,136206.25606930855
+5,Prevalence,61,Republic of Moldova,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4531.82409830427,5721.124826999778,3652.1170642904
+5,Prevalence,107,Barbados,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,7186.76075297137,8228.724609067147,6277.923936210252
+5,Prevalence,107,Barbados,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2433.9479944894915,2786.8310143988865,2126.151252186729
+5,Prevalence,118,Suriname,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,27985.36698926221,32170.821698422613,24390.35924370302
+5,Prevalence,118,Suriname,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4907.629047527101,5641.6075983771225,4277.193704479405
+5,Prevalence,118,Suriname,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,24314.857002961955,30464.071054160708,19254.435177894025
+5,Prevalence,118,Suriname,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4263.9533210334275,5342.304786236794,3376.5369383584257
+5,Prevalence,38,Mongolia,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,154869.38956055342,178740.41062530357,129527.47336845771
+5,Prevalence,38,Mongolia,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,4734.734823057983,5464.530136501971,3959.9706594088584
+5,Prevalence,170,Congo,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,232152.9479319371,270921.8697183775,198628.56939620443
+5,Prevalence,170,Congo,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4603.928363159579,5372.772094034957,3939.091502060539
+5,Prevalence,35,Georgia,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,102298.71282265174,117267.45745763696,88072.81074061463
+5,Prevalence,35,Georgia,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2743.1647184473263,3144.555225025107,2361.693714533682
+5,Prevalence,76,Belgium,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,464837.5388895939,528132.7587935803,410434.7799822384
+5,Prevalence,76,Belgium,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4102.877824620445,4661.551624436387,3622.693126860533
+5,Prevalence,76,Belgium,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,598962.5619871859,743620.7372754477,484471.18449118396
+5,Prevalence,76,Belgium,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,5286.729250020318,6563.551300489948,4276.173745056753
+5,Prevalence,185,Rwanda,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,370716.8730354911,442565.2831134482,305769.6598890746
+5,Prevalence,185,Rwanda,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3052.0838385544416,3643.60633773071,2517.378369174981
+5,Prevalence,46,Croatia,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,175224.2036863197,217336.2344204671,142882.31812302428
+5,Prevalence,46,Croatia,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4092.4676243792887,5076.019660859845,3337.103258072283
+5,Prevalence,116,Saint Lucia,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,6403.049860473115,7343.530083998643,5609.784718530559
+5,Prevalence,116,Saint Lucia,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3683.0662001543787,4224.035113197416,3226.7761359327933
+5,Prevalence,116,Saint Lucia,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,8181.296832743739,10294.230152116106,6505.932382865979
+5,Prevalence,116,Saint Lucia,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4705.922723500719,5921.292502174495,3742.244739923517
+5,Prevalence,12,Lao People's Democratic Republic,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,91434.93787232508,108022.12111982823,77500.17320527887
+5,Prevalence,12,Lao People's Democratic Republic,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1311.4689116855775,1549.3820734127473,1111.5999001486093
+5,Prevalence,178,Eritrea,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,232166.75298642786,268608.88011408364,200467.4730782163
+5,Prevalence,178,Eritrea,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3621.7470203265734,4190.235676179313,3127.2456712864087
+5,Prevalence,178,Eritrea,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,215130.67197565854,273613.73938950116,166638.92237590352
+5,Prevalence,178,Eritrea,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3355.9881429458705,4268.3103097551075,2599.5281961006744
+5,Prevalence,74,Andorra,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,3463.590476037093,3986.1472110250957,3028.861630116372
+5,Prevalence,74,Andorra,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4330.424391131597,4983.7615701653185,3786.8958155311884
+5,Prevalence,74,Andorra,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,4658.502585534532,5801.258278738324,3723.463829057266
+5,Prevalence,74,Andorra,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,5824.387542960868,7253.14107522494,4655.336332745234
+5,Prevalence,216,Senegal,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,96166.2005615262,111438.83395962125,82144.7106391757
+5,Prevalence,216,Senegal,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,661.7646162575915,766.8627517866846,565.2761843174378
+5,Prevalence,198,Zimbabwe,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,266457.2248044539,313104.28583953244,224468.5728913867
+5,Prevalence,198,Zimbabwe,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1832.6221758506795,2153.448299270232,1543.8353558031727
+5,Prevalence,52,Romania,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,719700.4677579324,902707.7324024242,580090.3937540653
+5,Prevalence,52,Romania,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3686.771427618475,4624.253039155871,2971.598303653967
+5,Prevalence,72,New Zealand,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,169400.22227149695,188723.73010157887,150780.06717210097
+5,Prevalence,72,New Zealand,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3807.6045858317266,4241.93859107438,3389.079822436021
+5,Prevalence,72,New Zealand,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,329114.8530552269,382978.2987215393,284053.7389496214
+5,Prevalence,72,New Zealand,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,7397.506372512408,8608.193702066503,6384.668830680802
+5,Prevalence,88,Malta,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,15823.185023147744,18210.382797340797,13848.348513834291
+5,Prevalence,88,Malta,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3624.891510514665,4171.768320267755,3172.4814497846364
+5,Prevalence,88,Malta,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,28861.206978679606,36134.00411721588,23314.75325285735
+5,Prevalence,88,Malta,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,6611.737397191243,8277.84321385261,5341.115016502179
+5,Prevalence,114,Haiti,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,382768.9482227327,448590.29626153235,328762.07200521353
+5,Prevalence,114,Haiti,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3213.734130883191,3766.371207937679,2760.291545719181
+5,Prevalence,140,Bahrain,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,75264.92119314976,88704.73044781695,64254.48093722024
+5,Prevalence,140,Bahrain,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,5287.858949649131,6232.094518121863,4514.302635181177
+5,Prevalence,140,Bahrain,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,74073.11709376507,95154.1366738359,57668.8099354528
+5,Prevalence,140,Bahrain,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,5204.126822208422,6685.207999030963,4051.6156517354248
+5,Prevalence,59,Latvia,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,81671.38537983733,102109.81725538892,66215.01382481706
+5,Prevalence,59,Latvia,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4186.096562023063,5233.675821386419,3393.8746163941755
+5,Prevalence,218,Togo,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,252504.15285578422,325384.4327760947,194764.92467796942
+5,Prevalence,218,Togo,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3330.107191411096,4291.276112911153,2568.6234027017467
+5,Prevalence,91,Portugal,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,404876.42082140024,475826.50153604924,340777.8894203625
+5,Prevalence,91,Portugal,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3781.7168452461697,4444.420578068691,3183.009478037512
+5,Prevalence,15,Myanmar,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,1155540.631166467,1407965.6432279672,969612.0930281429
+5,Prevalence,15,Myanmar,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2148.2356651830205,2617.5124686714216,1802.5807344681275
+5,Prevalence,15,Myanmar,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,2135907.1254736795,2691458.8773661437,1714849.8475190352
+5,Prevalence,15,Myanmar,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3970.8096285885545,5003.621504762532,3188.032946236881
+5,Prevalence,171,Democratic Republic of the Congo,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,3381233.5389442663,3953327.2878964525,2918013.1736238
+5,Prevalence,88,Malta,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,11260.559156352085,12903.075691020904,9785.014806522535
+5,Prevalence,88,Malta,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2579.6516459736613,2955.9314046752716,2241.623102462325
+5,Prevalence,195,Namibia,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,78441.21454088992,98110.26529380848,61224.60622581331
+5,Prevalence,195,Namibia,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3359.4087880172706,4201.776952993451,2622.0715908303264
+5,Prevalence,41,Uzbekistan,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,954450.5388889952,1111291.5344715898,831062.8797469966
+5,Prevalence,41,Uzbekistan,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2918.505078935689,3398.0912110006934,2541.2120760912644
+5,Prevalence,41,Uzbekistan,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,645656.3890981603,809768.0585398177,505766.1174634634
+5,Prevalence,41,Uzbekistan,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,1974.2787855970948,2476.0970792256103,1546.5243325116653
+5,Prevalence,179,Ethiopia,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,2267171.1346371165,2637521.8830424948,1959713.4361848645
+5,Prevalence,179,Ethiopia,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2211.827962093035,2573.138199591366,1911.8755128897208
+5,Prevalence,14,Maldives,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,13870.179816280443,16284.303842537398,11988.79969537882
+5,Prevalence,14,Maldives,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2974.5669087966576,3492.294403129936,2571.0904488928686
+5,Prevalence,14,Maldives,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,17143.644415466882,21794.02712083052,13292.066050512563
+5,Prevalence,14,Maldives,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3676.58660881728,4673.897003624009,2850.585958300652
+5,Prevalence,396,San Marino,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,1908.831441958319,2373.8091078259504,1549.1810315165733
+5,Prevalence,396,San Marino,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,5829.902821155497,7250.025387470177,4731.467990098346
+5,Prevalence,160,Afghanistan,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,303270.726277315,358982.547812494,257826.94611056175
+5,Prevalence,160,Afghanistan,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,844.447826551108,999.575646456699,717.9110458234139
+5,Prevalence,178,Eritrea,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,108030.61961280036,128039.94214936408,90289.73453344822
+5,Prevalence,178,Eritrea,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1685.252387147636,1997.393136601928,1408.4987312188912
+5,Prevalence,80,France,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,2921822.0412418186,3318293.8157198457,2585007.958781095
+5,Prevalence,80,France,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4438.975936554467,5041.315381458857,3927.27139533594
+5,Prevalence,79,Finland,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,253519.48811680483,282786.8360292632,229499.79981704958
+5,Prevalence,79,Finland,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4592.60401624974,5122.793393666778,4157.478031364121
+5,Prevalence,208,Guinea,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,69964.73735597653,82136.01676101018,59989.73563452353
+5,Prevalence,208,Guinea,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,583.6789376145415,685.2175083433136,500.462754326982
+5,Prevalence,157,Yemen,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,1362280.5915372071,1754429.0958614515,1036543.0316124433
+5,Prevalence,157,Yemen,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4509.9212423464205,5808.155160375477,3431.5452087591743
+5,Prevalence,152,Saudi Arabia,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,1565696.5203814646,1842469.0453490124,1340355.1143292384
+5,Prevalence,152,Saudi Arabia,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4584.42879948217,5394.83101846231,3924.619175986336
+5,Prevalence,152,Saudi Arabia,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,1684115.5256919903,2137333.5020789206,1305229.0869269639
+5,Prevalence,152,Saudi Arabia,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4931.164895069416,6258.207215432401,3821.7686110536415
+5,Prevalence,189,United Republic of Tanzania,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,1789577.742383657,2092000.1991114737,1532898.1602566708
+5,Prevalence,189,United Republic of Tanzania,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3322.879504702032,3884.416094827473,2846.2780682150164
+5,Prevalence,189,United Republic of Tanzania,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,1776672.940287086,2262296.1223491584,1381080.7491671739
+5,Prevalence,189,United Republic of Tanzania,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3298.917929083746,4200.620761246206,2564.3842159287924
+5,Prevalence,217,Sierra Leone,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,256921.89787117226,298152.07021819527,220910.55954706046
+5,Prevalence,217,Sierra Leone,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3279.596602373101,3805.897919096038,2819.913469898791
+5,Prevalence,217,Sierra Leone,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,268023.0675356083,341445.290006609,207286.95380322813
+5,Prevalence,217,Sierra Leone,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3421.3025395295645,4358.533944675564,2646.0087483481702
+5,Prevalence,54,Slovakia,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,183944.44025427452,212074.87777403498,159946.21362290333
+5,Prevalence,54,Slovakia,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3386.36034605848,3904.2330145800765,2944.560404033261
+5,Prevalence,320,Cook Islands,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,263.83350521511255,310.55538991716907,225.30408472123034
+5,Prevalence,320,Cook Islands,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1466.3632681582826,1726.0393676376204,1252.220159573234
+5,Prevalence,47,Czechia,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,389170.46833531244,446082.43300640036,341998.9049056076
+5,Prevalence,47,Czechia,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3664.9692805300506,4200.931331058595,3220.7363673186433
+5,Prevalence,205,Côte d'Ivoire,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,183573.1393068241,212265.7280877146,158440.1606987761
+5,Prevalence,205,Côte d'Ivoire,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,731.6063090266651,845.9568019891551,631.4421685445036
+5,Prevalence,161,Bangladesh,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,6902281.278028353,7876570.300288038,6031201.515054519
+5,Prevalence,161,Bangladesh,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4418.032006134538,5041.657719168125,3860.4687719375966
+5,Prevalence,161,Bangladesh,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,4908122.260667774,6249079.8222409375,3867159.4527635504
+5,Prevalence,161,Bangladesh,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3141.6049801792146,3999.928943990594,2475.3025191137262
+5,Prevalence,133,Venezuela (Bolivarian Republic of),3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,536882.2859846096,635489.1269706115,455505.0576343578
+5,Prevalence,133,Venezuela (Bolivarian Republic of),3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1909.4382708218834,2260.136516710587,1620.017669245476
+5,Prevalence,170,Congo,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,175277.73656334507,222260.49624784972,137535.707651173
+5,Prevalence,170,Congo,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3476.010750597852,4407.7467540296,2727.5317890346278
+5,Prevalence,109,Cuba,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,535926.7983925802,609883.3468440252,468921.0785908631
+5,Prevalence,109,Cuba,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4694.918381709263,5342.805294276216,4107.923317233499
+5,Prevalence,109,Cuba,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,534236.5020314698,670546.5822063474,431030.8740053501
+5,Prevalence,109,Cuba,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4680.11075596613,5874.237832545914,3775.9910113126084
+5,Prevalence,305,Bermuda,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,2572.5103777272147,2939.4843034801775,2240.6543416010627
+5,Prevalence,305,Bermuda,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3987.768686145326,4556.632136578668,3473.343119341059
+5,Prevalence,305,Bermuda,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,3118.9925273680633,3891.7144135546996,2512.7523360198497
+5,Prevalence,305,Bermuda,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4834.896232351962,6032.728578341031,3895.134950037122
+5,Prevalence,24,Marshall Islands,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,1481.7716183953205,1741.9327449211494,1266.0998044151158
+5,Prevalence,24,Marshall Islands,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2630.842474671284,3092.7509991871575,2247.9234325161983
+5,Prevalence,24,Marshall Islands,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,2180.7615918427286,2737.415718814653,1724.9414307618172
+5,Prevalence,24,Marshall Islands,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3871.878872376254,4860.20210839878,3062.583414361052
+5,Prevalence,75,Austria,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,329454.6925267491,373697.5896237264,289460.37649128324
+5,Prevalence,75,Austria,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3743.026067328202,4245.681882785012,3288.6395587688917
+5,Prevalence,75,Austria,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,553077.3029997012,683848.6411773028,445730.9972788929
+5,Prevalence,75,Austria,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,6283.664519992771,7769.393935179088,5064.073390594165
+5,Prevalence,175,Burundi,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,145729.69768427205,174664.87754546807,120999.2312647101
+5,Prevalence,175,Burundi,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1312.192571914131,1572.7333448945342,1089.5122613707892
+5,Prevalence,141,Egypt,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,3462867.097888895,4005562.919928426,2984817.534285349
+5,Prevalence,141,Egypt,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3611.2078106083973,4177.151387400144,3112.6797790256933
+5,Prevalence,195,Namibia,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,57126.16535915858,66663.38192579513,48747.58824814651
+5,Prevalence,195,Namibia,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2446.5473036913013,2854.998515655659,2087.717245506242
+5,Prevalence,168,Angola,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,1159978.505549311,1352913.1741008603,990760.6596364477
+5,Prevalence,168,Angola,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4111.125534062719,4794.912896064388,3511.393897809663
+5,Prevalence,207,Ghana,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,288588.7524168856,331479.8376434752,250632.77572573093
+5,Prevalence,207,Ghana,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,957.8429862491618,1100.2010123774876,831.86487464438
+5,Prevalence,84,Ireland,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,225959.25809103585,252731.80407600253,202505.84642865
+5,Prevalence,84,Ireland,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4645.487108931607,5195.9027825232315,4163.3093815902275
+5,Prevalence,84,Ireland,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,352664.829938066,431709.69009843736,282978.5869880034
+5,Prevalence,84,Ireland,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,7250.421757849791,8875.501792208757,5817.7451504413575
+5,Prevalence,148,Morocco,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,325584.67304272944,374964.45057176036,281802.9471186735
+5,Prevalence,148,Morocco,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,917.4354626093714,1056.5782503134749,794.0669157991182
+5,Prevalence,204,Chad,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,433700.30155030463,558980.0464244536,326936.24814608507
+5,Prevalence,204,Chad,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,2848.4229598861025,3671.2254814259873,2147.2263503379504
+5,Prevalence,129,Honduras,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,228516.24052397115,266606.77685843414,193606.14344513713
+5,Prevalence,129,Honduras,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2431.8799574865575,2837.2411329955553,2060.3651574650644
+5,Prevalence,165,Pakistan,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,3313722.642954435,3775570.473762707,2906534.950998964
+5,Prevalence,165,Pakistan,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1542.6605008406325,1757.6677548429238,1353.099563945768
+5,Prevalence,16,Philippines,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,4732202.806865052,5561193.55548306,4038349.7946692114
+5,Prevalence,16,Philippines,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4356.00034808463,5119.087674836633,3717.30752658087
+5,Prevalence,218,Togo,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,259169.94971305694,299675.19238260743,225043.31409722497
+5,Prevalence,218,Togo,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3418.0178962444033,3952.2142584751723,2967.9446859718755
+5,Prevalence,34,Azerbaijan,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,317717.93622829387,364220.41234443994,270891.67015417904
+5,Prevalence,34,Azerbaijan,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3147.0659466491484,3607.683187077251,2683.241495565308
+5,Prevalence,90,Norway,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,193402.04144025157,215533.954475744,172453.84174163922
+5,Prevalence,90,Norway,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3673.259277134438,4093.607760909209,3275.392903495541
+5,Prevalence,206,Gambia,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,84997.0951681899,98286.91323682977,73490.03587727468
+5,Prevalence,206,Gambia,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3971.3601594677184,4592.306721228845,3433.710293549992
+5,Prevalence,206,Gambia,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,65791.19087632808,84228.29148181158,49528.21782556733
+5,Prevalence,206,Gambia,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3073.9934555783443,3935.438975049673,2314.1307435587487
+5,Prevalence,305,Bermuda,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,1383.7306602010565,1574.784952810597,1217.8371158751947
+5,Prevalence,305,Bermuda,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2144.985631383172,2441.1478284410837,1887.8262873338776
+5,Prevalence,71,Australia,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,1436697.1338231869,1817535.450761812,1150214.422187348
+5,Prevalence,71,Australia,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,6000.351480158324,7590.918973435524,4803.859246454578
+5,Prevalence,200,Benin,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,359568.74065503787,419878.68749503867,307775.04972932645
+5,Prevalence,200,Benin,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3027.595433225991,3535.4096533894312,2591.4887187464838
+5,Prevalence,141,Egypt,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,4356097.0846637525,5515979.535914046,3414907.359433929
+5,Prevalence,141,Egypt,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4542.701573934597,5752.2705377265365,3561.1935948711275
+5,Prevalence,62,Russian Federation,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,6290217.905702291,7000642.585558922,5651823.914830292
+5,Prevalence,62,Russian Federation,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,4291.91934634351,4776.653813941599,3856.3326049797274
+5,Prevalence,173,Gabon,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,24833.346442926566,28938.517712081553,21207.49171506565
+5,Prevalence,173,Gabon,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1465.2801424501872,1707.5038780177788,1251.338258123235
+5,Prevalence,93,Sweden,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,303334.8953231211,338052.94080931746,271708.6732186492
+5,Prevalence,93,Sweden,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3018.54178332085,3364.027490870862,2703.8233834834623
+5,Prevalence,187,Somalia,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,605053.5856392048,706776.6363812024,520887.9444584752
+5,Prevalence,187,Somalia,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3192.329991815443,3729.032117792566,2748.262710836073
+5,Prevalence,187,Somalia,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,514608.47434522305,652450.6761879475,396275.2181264629
+5,Prevalence,187,Somalia,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,2715.1315283242534,3442.4023114822976,2090.792111415834
+5,Prevalence,168,Angola,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,943097.3400030937,1194470.1686573972,732962.0704780914
+5,Prevalence,168,Angola,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3342.4684483763726,4233.368796534892,2597.719758621737
+5,Prevalence,180,Kenya,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,423040.03109219496,487292.4772970589,368325.55202046136
+5,Prevalence,180,Kenya,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,879.2790135464655,1012.8262510764467,765.5562222051941
+5,Prevalence,74,Andorra,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,2520.568929178356,2896.747556861659,2164.7490940086013
+5,Prevalence,74,Andorra,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3151.3925349890324,3621.7175101881908,2706.521553928213
+5,Prevalence,27,Samoa,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,5027.4469196340215,5876.039086821088,4327.096349341547
+5,Prevalence,27,Samoa,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2453.4686737798233,2867.5942393581386,2111.6872064975178
+5,Prevalence,27,Samoa,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,7967.652877768315,9976.578090621051,6316.590706081042
+5,Prevalence,27,Samoa,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3888.332796277294,4868.718100486422,3082.589964686643
+5,Prevalence,151,Qatar,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,35159.75606326366,42337.26860263192,29192.10822058384
+5,Prevalence,151,Qatar,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1321.9721707583997,1591.8395673137536,1097.5944942263393
+5,Prevalence,130,Mexico,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,2276977.522798015,2551212.823311589,2027581.0547970266
+5,Prevalence,130,Mexico,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1854.3581695944285,2077.6939139339834,1651.2510360038732
+5,Prevalence,171,Democratic Republic of the Congo,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,897074.3913036401,1049570.76083045,749835.9289492209
+5,Prevalence,171,Democratic Republic of the Congo,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1076.991211179449,1260.0721811740066,900.2226717578264
+5,Prevalence,205,Côte d'Ivoire,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,749581.1863176778,948971.4730352386,580535.4257058819
+5,Prevalence,205,Côte d'Ivoire,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,2987.3560320887264,3781.999476505654,2313.6466569328604
+5,Prevalence,145,Kuwait,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,42136.93439354004,49882.870438977436,35362.538480550815
+5,Prevalence,145,Kuwait,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1022.817234613816,1210.8393819180199,858.3779133003738
+5,Prevalence,99,Uruguay,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,107865.07100974816,122821.44977579547,95301.49842447099
+5,Prevalence,99,Uruguay,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3152.6576120795567,3589.7995054146368,2785.452154602887
+5,Prevalence,144,Jordan,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,401962.8784443218,465282.819082976,346493.92197892145
+5,Prevalence,144,Jordan,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3762.388593351086,4355.065766209822,3243.19694585815
+5,Prevalence,43,Albania,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,59090.07560110974,69413.34964880302,50486.46834827778
+5,Prevalence,43,Albania,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2149.28127311378,2524.7693624793656,1836.3425645129346
+5,Prevalence,396,San Marino,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,1028.5938553659064,1162.657147595831,921.1796186773345
+5,Prevalence,396,San Marino,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3141.5043190344973,3550.956902643866,2813.4425804555685
+5,Prevalence,89,Netherlands,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,431189.4276407177,481445.0267533987,381977.9531835269
+5,Prevalence,89,Netherlands,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2529.449819858644,2824.2599612343256,2240.7647380332173
+5,Prevalence,97,Argentina,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,1251705.9338661432,1452399.0645329505,1078916.1083198867
+5,Prevalence,97,Argentina,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2822.0948967688983,3274.5774204571962,2432.5231357870366
+5,Prevalence,393,Saint Kitts and Nevis,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,2573.0448651091097,3039.396417626547,2160.001803063292
+5,Prevalence,393,Saint Kitts and Nevis,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4396.007396099643,5192.761818009917,3690.3297064943117
+5,Prevalence,67,Japan,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,3135316.799511148,3570191.1620165706,2731393.82233782
+5,Prevalence,67,Japan,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,2437.8128850473076,2775.9421370762407,2123.7493625116135
+5,Prevalence,374,Niue,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,23.927531683534635,28.068814407973854,20.23254588766476
+5,Prevalence,374,Niue,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1441.7468471477482,1691.278699830084,1219.1064932696688
+5,Prevalence,168,Angola,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,302192.14214348537,351411.5123546183,253896.9172981682
+5,Prevalence,168,Angola,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1071.0110797879615,1245.4513893949506,899.8460701907702
+5,Prevalence,160,Afghanistan,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,1332806.8354804555,1579314.080365155,1148115.6640392405
+5,Prevalence,160,Afghanistan,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3711.1588357023634,4397.550528455588,3196.8920608600793
+5,Prevalence,160,Afghanistan,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,1594025.1743951817,2046321.1345544911,1212851.8888649032
+5,Prevalence,160,Afghanistan,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4438.5131084326795,5697.917025199522,3377.14804871684
+5,Prevalence,122,Ecuador,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,550901.1399513374,636965.5158488139,480901.1632433607
+5,Prevalence,122,Ecuador,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3241.7444545925696,3748.1850717389775,2829.833823340769
+5,Prevalence,122,Ecuador,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,883921.6541313378,1108036.8195969965,704232.1004850175
+5,Prevalence,122,Ecuador,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,5201.383538301752,6520.175681121735,4144.011222585312
+5,Prevalence,121,Bolivia (Plurinational State of),3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,359672.15835477936,412417.89556838496,314315.7228358147
+5,Prevalence,121,Bolivia (Plurinational State of),3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3103.632241627028,3558.7783151328254,2712.2488877253854
+5,Prevalence,121,Bolivia (Plurinational State of),3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,635190.0962830911,805668.9611807786,505207.52678689215
+5,Prevalence,121,Bolivia (Plurinational State of),3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,5481.092757927066,6952.164925516238,4359.465508869887
+5,Prevalence,416,Tuvalu,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,166.18473530663934,201.9414279775238,138.94494411338505
+5,Prevalence,416,Tuvalu,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1437.8552162197152,1747.2274758122148,1202.1724636270242
+5,Prevalence,162,Bhutan,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,24825.23566485476,31837.044481375462,19626.850016795914
+5,Prevalence,162,Bhutan,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3263.393603846595,4185.128742724791,2580.0414414250417
+5,Prevalence,132,Panama,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,148269.935694681,184925.02309392154,118161.46373992754
+5,Prevalence,132,Panama,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3687.7363419443345,4599.413394247625,2938.885229898299
+5,Prevalence,105,Antigua and Barbuda,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,2656.1151050104118,3038.772017259678,2295.773434005966
+5,Prevalence,105,Antigua and Barbuda,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3015.7040094878034,3450.165596770487,2606.578734764673
+5,Prevalence,175,Burundi,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,342200.9660352874,432085.68571646634,266060.7045605679
+5,Prevalence,175,Burundi,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3081.2770002871293,3890.6251521632184,2395.6879465913876
+5,Prevalence,78,Denmark,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,235940.7796798312,267950.9296952475,208145.32454398257
+5,Prevalence,78,Denmark,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4109.115797854393,4666.600660363221,3625.0335465273592
+5,Prevalence,63,Ukraine,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,2236188.8575913906,2500992.7880894626,2000752.6322606415
+5,Prevalence,63,Ukraine,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,5002.712290486576,5595.121054699247,4476.003781905356
+5,Prevalence,393,Saint Kitts and Nevis,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,2718.2223057446704,3422.2778046393328,2155.8760594101773
+5,Prevalence,393,Saint Kitts and Nevis,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4644.040810298847,5846.908751847281,3683.2809372095467
+5,Prevalence,207,Ghana,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,1066705.5718049156,1247566.740377417,923013.3800146016
+5,Prevalence,207,Ghana,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3540.4583227494395,4140.747143263643,3063.53551500848
+5,Prevalence,207,Ghana,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,874215.3066843607,1105526.4673138028,676366.1065259682
+5,Prevalence,207,Ghana,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,2901.5718490984405,3669.3071506115316,2244.8987559178536
+5,Prevalence,127,El Salvador,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,225108.90770655326,258147.836472889,193360.44198102682
+5,Prevalence,127,El Salvador,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3633.4739350776704,4166.753971564978,3121.023211258317
+5,Prevalence,26,Papua New Guinea,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,244506.82134106453,287635.73295322474,208056.62178845055
+5,Prevalence,26,Papua New Guinea,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2622.2918305410763,3084.84167663693,2231.369974111222
+5,Prevalence,26,Papua New Guinea,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,342424.32899004006,433437.4966653345,264942.180548116
+5,Prevalence,26,Papua New Guinea,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3672.439548165214,4648.539457188516,2841.457394957268
+5,Prevalence,87,Luxembourg,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,22286.344698327863,25309.404064653827,19887.884297257344
+5,Prevalence,87,Luxembourg,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3769.997077120899,4281.383090811468,3364.269317633067
+5,Prevalence,87,Luxembourg,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,32770.872259996875,40860.16263369243,26422.910064727304
+5,Prevalence,87,Luxembourg,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,5543.57811059793,6911.976628956241,4469.745714761576
+5,Prevalence,80,France,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,4311625.868019564,5361220.929842701,3492337.623748284
+5,Prevalence,80,France,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,6550.434354116294,8145.0308616363445,5305.731305782636
+5,Prevalence,89,Netherlands,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,704662.691619097,802505.4263468581,625552.2578657202
+5,Prevalence,89,Netherlands,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4133.702739720693,4707.6692422988335,3669.6239391310974
+5,Prevalence,89,Netherlands,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,1223348.0385131685,1531192.912941811,981140.4330991366
+5,Prevalence,89,Netherlands,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,7176.422419660812,8982.306590867252,5755.580570093479
+5,Prevalence,122,Ecuador,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,277015.8148980496,312314.51726812316,244203.8118224553
+5,Prevalence,122,Ecuador,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1630.082816418783,1837.7958966142742,1437.0025678940153
+5,Prevalence,205,Côte d'Ivoire,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,734098.7060478549,861211.4112795679,627697.667811498
+5,Prevalence,205,Côte d'Ivoire,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2925.652668036913,3432.2434332007297,2501.6054944980965
+5,Prevalence,194,Lesotho,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,99649.03955663365,114848.68673613886,86131.97492822006
+5,Prevalence,194,Lesotho,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4835.700456655385,5573.298542236142,4179.753586649565
+5,Prevalence,194,Lesotho,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,72765.45833738535,92654.79655804847,56383.289097002424
+5,Prevalence,194,Lesotho,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3531.1124088742754,4496.288614727948,2736.1297012717337
+5,Prevalence,170,Congo,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,68706.83115719532,80480.99142087926,58022.42081924456
+5,Prevalence,170,Congo,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1362.5557268399077,1596.0543357236231,1150.6684334123497
+5,Prevalence,349,Greenland,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,3608.037717020777,4143.977962335623,3125.9753929614553
+5,Prevalence,349,Greenland,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,6427.594819912784,7382.353892501673,5568.817406810434
+5,Prevalence,349,Greenland,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,2952.063979747721,3711.4204559741756,2377.6905764736252
+5,Prevalence,349,Greenland,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,5259.000219084545,6611.767605643514,4235.773800423747
+5,Prevalence,212,Mauritania,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,106678.81211763855,123850.85605553843,91543.73442397283
+5,Prevalence,212,Mauritania,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2761.1825996914686,3205.649012292503,2369.4392690041705
+5,Prevalence,212,Mauritania,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,99850.51717273971,128380.08369475971,77000.80348330626
+5,Prevalence,212,Mauritania,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,2584.4448875521107,3322.87964412283,1993.0225554621961
+5,Prevalence,123,Peru,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,733358.6429494799,852089.6306824381,637157.5827620241
+5,Prevalence,123,Peru,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2206.5834654890205,2563.8300008527185,1917.126634492379
+5,Prevalence,123,Peru,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,1870181.3425746,2345440.163784508,1491330.59239965
+5,Prevalence,123,Peru,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,5627.139282621713,7057.133006418093,4487.22525929746
+5,Prevalence,153,Syrian Arab Republic,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,568935.2642928755,654118.3437666557,487711.0667881224
+5,Prevalence,153,Syrian Arab Republic,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3956.237740437609,4548.580200136825,3391.4243850825746
+5,Prevalence,153,Syrian Arab Republic,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,826019.1175144231,1027931.56454429,646783.40183815
+5,Prevalence,153,Syrian Arab Republic,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,5743.9364583863635,7147.986608444308,4497.574794244927
+5,Prevalence,163,India,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,23338840.632295977,26464353.86353923,20674708.892441645
+5,Prevalence,163,India,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1717.6276933796382,1947.6506052538066,1521.5602653835238
+5,Prevalence,157,Yemen,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,186199.69936935848,222669.71774913452,157638.49353702975
+5,Prevalence,157,Yemen,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,616.4265898824942,737.1630311277735,521.8728028797012
+5,Prevalence,37,Kyrgyzstan,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,206815.9793107242,234919.86421328274,178568.46106751062
+5,Prevalence,37,Kyrgyzstan,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3265.568459385519,3709.3212120976846,2819.5477750148702
+5,Prevalence,209,Guinea-Bissau,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,59005.50517515457,68848.36448280468,50597.21642647028
+5,Prevalence,209,Guinea-Bissau,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3237.3925544698923,3777.430290655541,2776.063881661826
+5,Prevalence,209,Guinea-Bissau,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,52190.19797085044,66980.57892259335,39784.06924502213
+5,Prevalence,209,Guinea-Bissau,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,2863.464312788985,3674.952478661135,2182.7903884226316
+5,Prevalence,183,Mauritius,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,26439.763731073952,29956.856982999783,22845.707477073673
+5,Prevalence,183,Mauritius,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2071.8204211066472,2347.4199195133733,1790.1901002996397
+5,Prevalence,69,Singapore,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,89918.83127533215,105511.21190455653,77156.86298864029
+5,Prevalence,69,Singapore,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1602.1821021744558,1880.008591021274,1374.788163803006
+5,Prevalence,57,Belarus,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,387434.24746094743,434440.99723799323,345675.28270867775
+5,Prevalence,57,Belarus,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,4059.322166427147,4551.832941073856,3621.7947862927285
+5,Prevalence,20,Viet Nam,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,1891071.277663443,2157326.7304200446,1642450.2754606768
+5,Prevalence,20,Viet Nam,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1988.5991517345717,2268.5861483911376,1727.1560639337263
+5,Prevalence,181,Madagascar,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,345016.95927063935,416678.65078004496,286463.50013298006
+5,Prevalence,181,Madagascar,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1357.7862493107448,1639.8050217777932,1127.3538617702577
+5,Prevalence,149,Palestine,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,251605.1801744029,294434.29647004977,215659.8393203078
+5,Prevalence,149,Palestine,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,5246.786907645599,6139.913378612005,4497.209559304057
+5,Prevalence,149,Palestine,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,257695.5283843993,325921.9695628101,197307.15507703627
+5,Prevalence,149,Palestine,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,5373.7904901197835,6796.533845729584,4114.496360231588
+5,Prevalence,67,Japan,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,1595850.2988204742,1784587.99795064,1422852.7740569497
+5,Prevalence,67,Japan,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1240.8265798460075,1387.5764058621344,1106.3152618778943
+5,Prevalence,102,United States of America,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,17873175.8361054,19593457.446188364,16249294.560530972
+5,Prevalence,102,United States of America,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,5507.026533363011,6037.074274092209,5006.681359476535
+5,Prevalence,161,Bangladesh,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,2242703.8825893467,2687936.4360031015,1905542.5996661228
+5,Prevalence,161,Bangladesh,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1435.516336475969,1720.5020668339275,1219.7051750378062
+5,Prevalence,79,Finland,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,227938.08079573556,283135.3047644735,185173.80238202686
+5,Prevalence,79,Finland,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4129.186884585552,5129.106040180671,3354.4953677569392
+5,Prevalence,183,Mauritius,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,56923.77821994975,65171.211280805124,49421.750267071635
+5,Prevalence,183,Mauritius,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4460.54841345011,5106.817435026431,3872.6893512218544
+5,Prevalence,183,Mauritius,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,53886.41021108306,67248.92915717598,43459.154823122764
+5,Prevalence,183,Mauritius,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4222.540194799117,5269.627449871773,3405.4602515513425
+5,Prevalence,186,Seychelles,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,2937.0600591879247,3490.505606527048,2495.1472273456097
+5,Prevalence,186,Seychelles,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2924.8975849963717,3476.0512938812954,2484.81473051369
+5,Prevalence,186,Seychelles,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,3979.928784708756,5007.335015585405,3166.178278436719
+5,Prevalence,186,Seychelles,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3963.4477526042842,4986.599456329474,3153.067017236296
+5,Prevalence,196,South Africa,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,1587382.6078670747,1790741.5058897475,1410301.6231327218
+5,Prevalence,196,South Africa,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2911.4030353587773,3284.3816166007377,2586.6205198487614
+5,Prevalence,413,Tokelau,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,39.743962350265605,46.92899432435662,33.355362181018606
+5,Prevalence,413,Tokelau,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2913.9927094498944,3440.7929968783496,2445.586108399164
+5,Prevalence,37,Kyrgyzstan,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,196321.2272305181,226278.40625859922,171177.28070311333
+5,Prevalence,37,Kyrgyzstan,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3099.8591583130833,3572.874924755818,2702.8430331663576
+5,Prevalence,98,Chile,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,699094.7664448951,792803.2542403488,611520.5237998002
+5,Prevalence,98,Chile,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3903.3065627662572,4426.51596577604,3414.34693604185
+5,Prevalence,119,Trinidad and Tobago,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,33277.769780818686,37677.42805223024,29050.53330676167
+5,Prevalence,119,Trinidad and Tobago,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2407.24325328229,2725.505196926956,2101.453936593525
+5,Prevalence,367,Monaco,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,1848.0468655909044,2151.44601229847,1574.0836690986175
+5,Prevalence,367,Monaco,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4960.164084180225,5774.488427729059,4224.845931307653
+5,Prevalence,367,Monaco,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,2143.487175496957,2649.085131303569,1734.7021693949055
+5,Prevalence,367,Monaco,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,5753.126882635292,7110.153518767174,4655.94653338562
+5,Prevalence,190,Uganda,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,398357.87684176397,474284.8209189989,333441.0401914417
+5,Prevalence,190,Uganda,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1020.0358960250442,1214.4545656100058,853.8097273229102
+5,Prevalence,206,Gambia,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,15003.894543641898,17466.7593131228,12813.900382380061
+5,Prevalence,206,Gambia,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,701.0341813395819,816.1077965533592,598.7100307989983
+5,Prevalence,130,Mexico,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,4414463.568778387,4901441.63036675,3984821.2483821986
+5,Prevalence,130,Mexico,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3595.115235517122,3991.707532928108,3245.216855382408
+5,Prevalence,130,Mexico,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,4417348.669905693,5160224.135944032,3754830.677337462
+5,Prevalence,130,Mexico,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3597.464846258538,4202.458604715442,3057.9137792315214
+5,Prevalence,86,Italy,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,3581587.416531926,4123228.596110929,3110573.0053962567
+5,Prevalence,86,Italy,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,5910.99733384098,6804.913688810235,5133.642322045806
+5,Prevalence,154,Tunisia,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,601961.9384457282,758927.6933056281,476916.69051609386
+5,Prevalence,154,Tunisia,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,5269.153513511374,6643.121875791101,4174.594928665337
+5,Prevalence,435,South Sudan,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,107818.26898674214,129318.4312052499,90372.1311495007
+5,Prevalence,435,South Sudan,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1228.4738882798943,1473.4452472846149,1029.693802253672
+5,Prevalence,11,Indonesia,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,9332445.918876262,10918619.67691505,7934957.232424354
+5,Prevalence,11,Indonesia,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3645.67063884366,4265.301028138498,3099.7490748077034
+5,Prevalence,79,Finland,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,175194.50232477635,193902.87171078788,157817.16357151567
+5,Prevalence,79,Finland,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3173.7164703919607,3512.625849777004,2858.9192280072352
+5,Prevalence,81,Germany,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,3512112.8506203694,3927000.4810746675,3148021.2216692683
+5,Prevalence,81,Germany,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4175.309410498325,4668.540779026018,3742.465914488602
+5,Prevalence,81,Germany,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,5675447.989002259,7080522.790352863,4625511.91369394
+5,Prevalence,81,Germany,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,6747.149765728401,8417.546558216709,5498.952978748118
+5,Prevalence,208,Guinea,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,367455.068217634,424593.6552473075,317454.5260446713
+5,Prevalence,208,Guinea,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3065.484012997964,3542.16113685523,2648.3558361682835
+5,Prevalence,208,Guinea,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,357421.74241939845,456495.28176553093,274131.1174832261
+5,Prevalence,208,Guinea,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,2981.781262670203,3808.2995971426385,2286.9314667130466
+5,Prevalence,116,Saint Lucia,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,5423.217915745212,6212.462222894196,4676.234056270314
+5,Prevalence,116,Saint Lucia,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3119.4619808999896,3573.439240903694,2689.7931410747165
+5,Prevalence,58,Estonia,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,63380.25336561646,71503.6015239546,55612.51096937321
+5,Prevalence,58,Estonia,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4821.038900378201,5438.943932198562,4230.183132661731
+5,Prevalence,369,Nauru,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,390.7117562658645,496.6371765619548,304.18166663131575
+5,Prevalence,369,Nauru,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3734.3155546972075,4746.721601625488,2907.2847462058435
+5,Prevalence,142,Iran (Islamic Republic of),3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,4436640.418330659,5129195.409120949,3836616.3247546065
+5,Prevalence,142,Iran (Islamic Republic of),3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,5364.563385938552,6201.966194377221,4639.044304026974
+5,Prevalence,142,Iran (Islamic Republic of),3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,6200422.225750267,7318791.990661334,5262856.438394988
+5,Prevalence,142,Iran (Islamic Republic of),3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,7497.240008946896,8849.51671543735,6363.582416599746
+5,Prevalence,43,Albania,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,115934.13404598164,146519.3928003102,93334.71323701218
+5,Prevalence,43,Albania,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4216.868241999871,5329.344799277843,3394.8602916999444
+5,Prevalence,164,Nepal,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,1293496.5075529688,1463251.9480758067,1138614.0680583692
+5,Prevalence,164,Nepal,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4336.844728549846,4906.002034406723,3817.5537313612917
+5,Prevalence,164,Nepal,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,928370.5952103367,1170285.408458364,741301.3335345634
+5,Prevalence,164,Nepal,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3112.647849042421,3923.7416374420513,2485.4406346162423
+5,Prevalence,71,Australia,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,1126306.2552920447,1284601.9235272976,989374.300719234
+5,Prevalence,71,Australia,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4704.007022042913,5365.1273269679095,4132.112057572932
+5,Prevalence,140,Bahrain,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,15617.37884983028,18287.354631009268,13240.04172232355
+5,Prevalence,140,Bahrain,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1097.224247524388,1284.8077207551914,930.2005769121641
+5,Prevalence,150,Oman,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,48213.54743046333,58369.12918200991,39849.09823231813
+5,Prevalence,150,Oman,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1069.1908655728005,1294.4025710377819,883.6995844945303
+5,Prevalence,121,Bolivia (Plurinational State of),3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,197058.169370207,223079.8035097396,172842.15317419462
+5,Prevalence,121,Bolivia (Plurinational State of),3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1700.426551587843,1924.968765432522,1491.465121341215
+5,Prevalence,69,Singapore,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,127399.33623266855,143221.66155399487,113360.57564708182
+5,Prevalence,69,Singapore,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2270.013226883251,2551.9368916491776,2019.8692845307678
+5,Prevalence,69,Singapore,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,162804.46045470965,206732.24291976215,128657.07210481697
+5,Prevalence,69,Singapore,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,2900.8650245464532,3683.574339775596,2292.4236816794055
+5,Prevalence,181,Madagascar,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,887914.0411422591,1034746.0293151286,764654.0850447112
+5,Prevalence,181,Madagascar,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3494.3136655702638,4072.159041407839,3009.234109383535
+5,Prevalence,143,Iraq,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,310713.17544535577,369708.54229600326,262702.57097113377
+5,Prevalence,143,Iraq,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,766.5969026458987,912.1512887234808,648.1443116627761
+5,Prevalence,195,Namibia,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,71783.39707825199,83985.75008691248,61680.34249350534
+5,Prevalence,195,Namibia,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3074.273854501656,3596.865099062439,2641.5894480137426
+5,Prevalence,156,United Arab Emirates,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,401455.87142028246,479659.25124690396,333743.2499242561
+5,Prevalence,156,United Arab Emirates,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4379.498298168978,5232.622123833987,3640.818578384899
+5,Prevalence,41,Uzbekistan,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,728814.4144582205,858972.3741454781,605047.4326382808
+5,Prevalence,41,Uzbekistan,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2228.558195036273,2626.553325148874,1850.1053047833134
+5,Prevalence,99,Uruguay,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,100254.89952282593,110807.53760396934,89975.18978794946
+5,Prevalence,99,Uruguay,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2930.2291202343335,3238.6594069119437,2629.77592586618
+5,Prevalence,181,Madagascar,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,895467.7534306519,1139784.1190109868,700391.0951732387
+5,Prevalence,181,Madagascar,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3524.0406873900342,4485.5279208519105,2756.332326898588
+5,Prevalence,125,Colombia,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,1410818.9118196962,1631452.1806957151,1240225.4038580603
+5,Prevalence,125,Colombia,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2993.204090722245,3461.301305337356,2631.271611930322
+5,Prevalence,144,Jordan,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,89122.12761583034,103968.43194871364,76070.33180096431
+5,Prevalence,144,Jordan,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,834.1866732935785,973.1486746894266,712.0213432843765
+5,Prevalence,182,Malawi,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,244669.53275389643,292313.1687954256,203735.83438417918
+5,Prevalence,182,Malawi,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1399.9586784612507,1672.567699286406,1165.7428133750072
+5,Prevalence,127,El Salvador,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,210793.60973509031,242672.91030691666,185535.58467856128
+5,Prevalence,127,El Salvador,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3402.4112793075774,3916.9738031826178,2994.72250044294
+5,Prevalence,127,El Salvador,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,275882.788226511,345965.62555172504,219622.68625013652
+5,Prevalence,127,El Salvador,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4453.013123160381,5584.217415837245,3544.9210525327476
+5,Prevalence,131,Nicaragua,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,273698.75437383464,344102.05878743797,216268.90570182004
+5,Prevalence,131,Nicaragua,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4316.0628948556805,5426.28018667333,3410.429109720138
+5,Prevalence,57,Belarus,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,363922.01121356606,453417.79954972875,293595.7081042262
+5,Prevalence,57,Belarus,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3812.97393467748,4750.661399778191,3076.1337534970767
+5,Prevalence,193,Botswana,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,54319.83995367844,64184.98618588794,45450.83264049167
+5,Prevalence,193,Botswana,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2397.5790145322503,2833.008640278703,2006.1171502859129
+5,Prevalence,78,Denmark,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,294029.2392045919,363663.91222087195,238603.55303439355
+5,Prevalence,78,Denmark,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,5120.777313214825,6333.526272330353,4155.490333329718
+5,Prevalence,111,Dominican Republic,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,197720.1359244566,228406.6413221666,168741.1264552423
+5,Prevalence,111,Dominican Republic,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1858.7347034128777,2147.213528508278,1586.3077686491918
+5,Prevalence,164,Nepal,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,435421.9574861919,499049.11372974917,379579.06279107527
+5,Prevalence,164,Nepal,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1459.8859834505724,1673.2155869989524,1272.6555100234432
+5,Prevalence,59,Latvia,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,71124.65036590556,78141.62734247537,64211.902705732806
+5,Prevalence,59,Latvia,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3645.5198229723323,4005.1775300236145,3291.2044274418176
+5,Prevalence,196,South Africa,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,2342336.6639225227,2600417.3224705723,2110925.724705735
+5,Prevalence,196,South Africa,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4296.056942654394,4769.400173794988,3871.6283849065844
+5,Prevalence,196,South Africa,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,2110020.5590008604,2487950.8473978457,1789249.6148913712
+5,Prevalence,196,South Africa,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3869.96822927201,4563.126503364137,3281.6453537995894
+5,Prevalence,150,Oman,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,185429.25091439794,219197.51905037367,156689.543821116
+5,Prevalence,150,Oman,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4112.1069046749435,4860.957088106704,3474.7708458069856
+5,Prevalence,150,Oman,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,212890.17510564055,274661.1813237272,164098.23551246402
+5,Prevalence,150,Oman,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4721.084481938056,6090.927588813219,3639.067104937451
+5,Prevalence,209,Guinea-Bissau,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,12536.91517489921,14708.539664275711,10687.444243797763
+5,Prevalence,209,Guinea-Bissau,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,687.8496459399727,806.9978666380689,586.3766833022855
+5,Prevalence,99,Uruguay,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,183250.0231717149,230837.68476691665,147914.08589810817
+5,Prevalence,99,Uruguay,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,5355.993140855126,6746.8753065528645,4323.201797163022
+5,Prevalence,45,Bulgaria,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,251976.80498525754,291531.2371571438,219315.5702065849
+5,Prevalence,45,Bulgaria,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3577.0954804131466,4138.615341579101,3113.432345553023
+5,Prevalence,24,Marshall Islands,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,837.1513244170552,1005.0701429984908,702.7556320832991
+5,Prevalence,24,Marshall Islands,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1486.337863853003,1784.472849525811,1247.7222152502848
+5,Prevalence,123,Peru,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,575662.4884831241,670471.4707102955,496855.04783228715
+5,Prevalence,123,Peru,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1732.095668335405,2017.3639126979806,1494.974040098696
+5,Prevalence,393,Saint Kitts and Nevis,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,1440.1892802666264,1663.2931887216648,1243.5809661355472
+5,Prevalence,393,Saint Kitts and Nevis,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2460.5411330699985,2841.7107135022848,2124.638866158592
+5,Prevalence,435,South Sudan,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,291585.74752324977,338586.30591940955,251420.68784132836
+5,Prevalence,435,South Sudan,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3322.3078091796565,3857.828915823992,2864.669901391401
+5,Prevalence,435,South Sudan,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,370871.75110732805,471656.49603175255,290932.10911273415
+5,Prevalence,435,South Sudan,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4225.687041887271,5374.021444212256,3314.860298407675
+5,Prevalence,105,Antigua and Barbuda,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,4157.564024293405,5255.866441922823,3298.697773937195
+5,Prevalence,105,Antigua and Barbuda,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4720.42136807724,5967.413638189041,3745.2804978916356
+5,Prevalence,83,Iceland,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,10538.680167746,11991.067901466202,9185.744650078943
+5,Prevalence,83,Iceland,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3116.609235732245,3546.124597497393,2716.5049283051826
+5,Prevalence,131,Nicaragua,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,178853.24248037123,210280.42048489724,152866.40581037014
+5,Prevalence,131,Nicaragua,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2820.40685665595,3315.9943400030306,2410.610247377742
+5,Prevalence,162,Bhutan,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,22903.229591564093,26598.254616386814,19559.6391226389
+5,Prevalence,162,Bhutan,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3010.7368955354327,3496.4652565809884,2571.2062543169764
+5,Prevalence,118,Suriname,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,12970.292563637822,14722.957331311773,11175.059714524597
+5,Prevalence,118,Suriname,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2274.523845431689,2581.8783470794365,1959.704429957761
+5,Prevalence,91,Portugal,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,594561.6132715745,674261.6144980852,523369.74301484565
+5,Prevalence,91,Portugal,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,5553.456691511553,6297.88837906935,4888.494542201273
+5,Prevalence,91,Portugal,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,920018.0237403929,1144888.8550453947,744136.7055428947
+5,Prevalence,91,Portugal,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,8593.357082268585,10693.745662629413,6950.551254153971
+5,Prevalence,46,Croatia,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,137900.45392905994,154169.44943903302,121675.0930194784
+5,Prevalence,46,Croatia,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3220.7487962232135,3600.7210603570356,2841.7956446643007
+5,Prevalence,98,Chile,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,1037139.3059369407,1298092.1242626302,826025.9678687626
+5,Prevalence,98,Chile,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,5790.735181659524,7247.731997016605,4612.010754698785
+5,Prevalence,15,Myanmar,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,702815.11883258,817408.3258302752,598663.3385645389
+5,Prevalence,15,Myanmar,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1306.5853883319558,1519.6226521204633,1112.9595106003753
+5,Prevalence,108,Belize,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,9688.739104145561,11131.505620064418,8366.678409975544
+5,Prevalence,108,Belize,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2466.588478807802,2833.892338218408,2130.0142722498895
+5,Prevalence,60,Lithuania,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,148143.07678038237,167973.92731953543,131368.0304360731
+5,Prevalence,60,Lithuania,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,5193.560104979936,5888.784724626852,4605.465046159535
+5,Prevalence,60,Lithuania,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,136632.63730038397,172507.83861742573,109276.21614678184
+5,Prevalence,60,Lithuania,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4790.030216352552,6047.733366358851,3830.976168021948
+5,Prevalence,19,Timor-Leste,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,29346.518608526087,34211.56502303244,25312.29882306885
+5,Prevalence,19,Timor-Leste,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2287.575642853511,2666.8084175357926,1973.1062149041088
+5,Prevalence,19,Timor-Leste,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,43938.15246654551,55641.531902369126,34561.891322621836
+5,Prevalence,19,Timor-Leste,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3425.000720366592,4337.284936889792,2694.116525890385
+5,Prevalence,163,India,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,48602578.25148582,53644678.79137615,43961877.29227855
+5,Prevalence,163,India,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3576.918652029478,3947.993276367752,3235.3851281577877
+5,Prevalence,66,Brunei Darussalam,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,7017.58287659631,8253.450977386974,5985.418383808507
+5,Prevalence,66,Brunei Darussalam,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,1639.289713726551,1927.985394386832,1398.1786836675094
+5,Prevalence,66,Brunei Darussalam,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,12995.276565849588,16609.939303981293,10145.732186313253
+5,Prevalence,66,Brunei Darussalam,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3035.6639281702915,3880.0400544532417,2370.017526506864
+5,Prevalence,145,Kuwait,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,187096.86180149665,219349.08136876355,160293.9323873841
+5,Prevalence,145,Kuwait,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4541.523904075665,5324.403021950147,3890.918952921583
+5,Prevalence,97,Argentina,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,1130769.4220952892,1250010.2811040934,1025731.8915157556
+5,Prevalence,97,Argentina,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2549.4315630996202,2818.2718798149936,2312.614055889969
+5,Prevalence,97,Argentina,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,2275791.0001596594,2522888.168276688,2048301.8337290771
+5,Prevalence,97,Argentina,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,5130.996022225441,5688.101040490605,4618.099184170976
+5,Prevalence,184,Mozambique,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,927944.5764188287,1079744.9021889511,797959.3145593832
+5,Prevalence,184,Mozambique,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3322.137949533498,3865.598880076029,2856.7772132599493
+5,Prevalence,184,Mozambique,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,930450.5838337447,1191809.677193281,714719.1594389122
+5,Prevalence,184,Mozambique,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3331.1097163248246,4266.80241238676,2558.7688135363464
+5,Prevalence,145,Kuwait,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,200835.28460108087,258717.6516381158,155569.17688983702
+5,Prevalence,145,Kuwait,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4875.005582751854,6280.0219523052665,3776.2318874817106
+5,Prevalence,217,Sierra Leone,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,56512.453951846284,65742.75468011138,48620.94968739192
+5,Prevalence,217,Sierra Leone,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,721.3789618866005,839.2033402604485,620.6442608441271
+5,Prevalence,59,Latvia,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,95282.86418118718,107606.30263283716,84910.83907055753
+5,Prevalence,59,Latvia,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4883.757858563861,5515.400178512685,4352.135939149934
+5,Prevalence,106,Bahamas,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,12079.153723799005,13912.460502854938,10470.374149833835
+5,Prevalence,106,Bahamas,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3237.3247007918308,3728.6678408558073,2806.156924305516
+5,Prevalence,154,Tunisia,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,611002.1934538494,699939.5242627128,531010.5565520091
+5,Prevalence,154,Tunisia,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,5348.285578841073,6126.78072809227,4648.094773221129
+5,Prevalence,111,Dominican Republic,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,393883.79987634614,454106.2159991854,342995.2757657097
+5,Prevalence,111,Dominican Republic,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3702.8372680363836,4268.978365641439,3224.4425646964955
+5,Prevalence,111,Dominican Republic,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,478832.2295815691,597997.4272733026,378945.71536656434
+5,Prevalence,111,Dominican Republic,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4501.4235807316945,5621.676140507946,3562.4067754564358
+5,Prevalence,35,Georgia,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,100396.25929457274,126547.50498807125,80079.5795760874
+5,Prevalence,35,Georgia,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,2692.1499671106276,3393.4019433130893,2147.3532882280483
+5,Prevalence,85,Israel,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,140388.08776028498,160769.6238372214,123375.19486425175
+5,Prevalence,85,Israel,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1564.8201613649405,1792.0006798946579,1375.1878483134733
+5,Prevalence,47,Czechia,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,372972.9732539631,416757.2130517021,328852.9733599354
+5,Prevalence,47,Czechia,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3512.4311854669522,3924.764357910588,3096.9360299371147
+5,Prevalence,48,Hungary,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,314934.4588610392,352519.4506982212,275067.5457457207
+5,Prevalence,48,Hungary,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3228.2378703977056,3613.5030917589424,2819.5817990355263
+5,Prevalence,101,Canada,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,1700811.5455584025,2142531.7806965876,1368004.0526728963
+5,Prevalence,101,Canada,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4727.674408745922,5955.505591419604,3802.583400713562
+5,Prevalence,184,Mozambique,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,398832.26815410267,471253.1731350854,332887.2117193203
+5,Prevalence,184,Mozambique,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1427.8609382541786,1687.1352989119973,1191.7707879010204
+5,Prevalence,108,Belize,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,12159.06143870784,14010.218216219846,10622.268438236213
+5,Prevalence,108,Belize,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3095.490603622553,3566.763689913461,2704.2491976429164
+5,Prevalence,108,Belize,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,16306.946736031268,20514.649990135273,12857.07634554835
+5,Prevalence,108,Belize,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4151.471776798802,5222.681586171652,3273.193347884933
+5,Prevalence,14,Maldives,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,6749.639020823253,8122.101594784285,5595.119031313039
+5,Prevalence,14,Maldives,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1447.512083015491,1741.8472545952038,1199.916377564695
+5,Prevalence,204,Chad,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,81495.52141948837,96071.26079878461,69202.89306538455
+5,Prevalence,204,Chad,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,535.2399191547146,630.969321594357,454.5053549498637
+5,Prevalence,77,Cyprus,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,30448.235314266003,36361.76262758267,25544.983442362485
+5,Prevalence,77,Cyprus,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2388.543875054141,2852.436750894141,2003.9031198312723
+5,Prevalence,203,Cabo Verde,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,5770.344332586663,6580.96094017407,5016.666433581029
+5,Prevalence,203,Cabo Verde,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1043.7099526204538,1190.3300800053214,907.3886035078896
+5,Prevalence,107,Barbados,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,10943.438604001461,12507.270543387254,9576.885757911794
+5,Prevalence,107,Barbados,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3706.226123085519,4235.850768098636,3243.4142007979053
+5,Prevalence,57,Belarus,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,465935.8542054089,534276.8983478999,406965.9672678251
+5,Prevalence,57,Belarus,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4881.818666017209,5597.858399681572,4263.964744309977
+5,Prevalence,385,Puerto Rico,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,124219.81020296249,141980.23170970127,108924.69129772186
+5,Prevalence,385,Puerto Rico,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3436.196150925794,3927.48889980829,3013.09915356066
+5,Prevalence,385,Puerto Rico,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,176304.1715419032,219583.40570833426,141968.70479873868
+5,Prevalence,385,Puerto Rico,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4876.965394284595,6074.165241995842,3927.170039821168
+5,Prevalence,142,Iran (Islamic Republic of),3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,960734.0221023019,1097023.8816145945,842251.8209656726
+5,Prevalence,142,Iran (Islamic Republic of),3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1161.6714614286263,1326.466333511014,1018.4087179624513
+5,Prevalence,87,Luxembourg,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,21553.67196620537,24538.71933005251,18855.234231900504
+5,Prevalence,87,Luxembourg,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3646.056875352628,4151.012712171195,3189.584425122359
+5,Prevalence,125,Colombia,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,2295760.1291107186,2901872.734648904,1821886.0819259593
+5,Prevalence,125,Colombia,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4870.702081040319,6156.635176447444,3865.3273127852985
+5,Prevalence,47,Czechia,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,374291.2327634692,464950.28572468454,299396.39914788125
+5,Prevalence,47,Czechia,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3524.845746691942,4378.617219964473,2819.5320427881848
+5,Prevalence,80,France,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,2008539.764664224,2249762.035131521,1808263.9661458055
+5,Prevalence,80,France,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3051.4725253998995,3417.9492782107136,2747.2036692721517
+5,Prevalence,198,Zimbabwe,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,371659.04879846773,433932.73472170497,319188.88676632266
+5,Prevalence,198,Zimbabwe,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2556.172440749136,2984.4743487894884,2195.2965719069402
+5,Prevalence,198,Zimbabwe,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,422439.86839159037,532585.0390171147,326091.7204982957
+5,Prevalence,198,Zimbabwe,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,2905.429460004384,3662.978752951229,2242.7724329300654
+5,Prevalence,16,Philippines,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,2739004.369946256,3061065.7767638587,2423355.061349421
+5,Prevalence,16,Philippines,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2521.2579586789157,2817.7160052712766,2230.7022588839263
+5,Prevalence,351,Guam,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,5593.795236509554,6451.64450536982,4901.045095973984
+5,Prevalence,351,Guam,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3307.6773115443043,3814.9337346636657,2898.045956527377
+5,Prevalence,351,Guam,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,6839.108844660825,8513.42557694152,5435.054115421715
+5,Prevalence,351,Guam,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4044.045983131499,5034.089278166293,3213.811808351701
+5,Prevalence,131,Nicaragua,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,193138.05285998696,223768.18299150764,167886.8364529054
+5,Prevalence,131,Nicaragua,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3045.6696284232557,3528.688151571842,2647.473303292319
+5,Prevalence,129,Honduras,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,252917.35262682743,293529.9864295671,218355.48811824428
+5,Prevalence,129,Honduras,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2691.5576737278852,3123.7591222514675,2323.7487801496077
+5,Prevalence,129,Honduras,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,371871.11722914095,468329.6507399902,292909.7112573914
+5,Prevalence,129,Honduras,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3957.468907610603,4983.984895427114,3117.1581263840317
+5,Prevalence,55,Slovenia,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,78974.44268469361,97938.34103777513,63689.54658807463
+5,Prevalence,55,Slovenia,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3808.8018542751456,4723.398130691812,3071.637543693836
+5,Prevalence,182,Malawi,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,509041.6950538719,593610.9169753488,435551.49951544334
+5,Prevalence,182,Malawi,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2912.6525508433765,3396.5436787132876,2492.1537831062283
+5,Prevalence,182,Malawi,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,586041.1813866637,750867.1182914204,452175.3732659779
+5,Prevalence,182,Malawi,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3353.2309012221235,4296.33770413339,2587.272844579706
+5,Prevalence,55,Slovenia,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,85091.98889265166,96624.98444781886,75136.93252681498
+5,Prevalence,55,Slovenia,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4103.84061046507,4660.0571960160005,3623.7253243465507
+5,Prevalence,133,Venezuela (Bolivarian Republic of),3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,1152800.7642417115,1452959.4054414215,909647.3913393922
+5,Prevalence,133,Venezuela (Bolivarian Republic of),3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4099.97117680828,5167.494564683756,3235.1887691569636
+5,Prevalence,58,Estonia,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,46910.24285672631,52087.78478830676,42374.07645210783
+5,Prevalence,58,Estonia,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3568.2423724919176,3962.0737274487597,3223.1974486557783
+5,Prevalence,126,Costa Rica,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,115367.1283520208,132584.8117062397,99892.57371133733
+5,Prevalence,126,Costa Rica,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2480.376914257115,2850.554666957029,2147.676181930277
+5,Prevalence,218,Togo,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,50952.56883484829,58851.95909208793,43912.77784591628
+5,Prevalence,218,Togo,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,671.9791099622316,776.1588472294475,579.1360484397428
+5,Prevalence,351,Guam,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,2569.192016133196,3049.041722764275,2183.6188805539978
+5,Prevalence,351,Guam,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1519.1936389268335,1802.9344482463382,1291.1996815913287
+5,Prevalence,101,Canada,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,1461723.4585143214,1598670.6983347496,1334846.3960680922
+5,Prevalence,101,Canada,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,4063.0912963451788,4443.75778625595,3710.416455472694
+5,Prevalence,139,Algeria,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,1661264.3690269394,1931302.8595019958,1429709.7571962953
+5,Prevalence,139,Algeria,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4089.7305209999895,4754.5161366618,3519.685210369039
+5,Prevalence,26,Papua New Guinea,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,129612.96544822892,159577.52477429426,107041.29227051573
+5,Prevalence,26,Papua New Guinea,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1390.075821046268,1711.4403486105052,1147.9986722333256
+5,Prevalence,114,Haiti,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,230565.27177289463,268419.4998177859,196002.23082382622
+5,Prevalence,114,Haiti,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1935.8296610354548,2253.6543571895245,1645.6378236858397
+5,Prevalence,23,Kiribati,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,1422.8433365397873,1739.0701992675129,1179.2058149286397
+5,Prevalence,23,Kiribati,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1229.5719214051167,1502.844221467063,1019.0288153015854
+5,Prevalence,320,Cook Islands,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,617.6003905941884,730.9976111640746,525.6573380160847
+5,Prevalence,320,Cook Islands,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3432.5683026086367,4062.820016921225,2921.556954929532
+5,Prevalence,320,Cook Islands,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,758.3420004207464,938.7308992985209,609.4523241025239
+5,Prevalence,320,Cook Islands,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4214.79771195853,5217.3832443844385,3387.282070292744
+5,Prevalence,132,Panama,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,118568.15051207131,135504.67199514055,104336.31468095453
+5,Prevalence,132,Panama,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2949.000251412241,3370.2415872677334,2595.0292460219844
+5,Prevalence,201,Burkina Faso,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,587277.9190632612,748092.7218767742,447567.3200267654
+5,Prevalence,201,Burkina Faso,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,2760.132271211899,3515.9415950872985,2103.510047706439
+5,Prevalence,90,Norway,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,373628.55717331334,427673.95072858705,322513.02472850186
+5,Prevalence,90,Norway,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,7096.2775450496965,8122.754524221713,6125.447028679083
+5,Prevalence,175,Burundi,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,363038.2601084231,421337.9883642862,310006.1998415401
+5,Prevalence,175,Burundi,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3268.9020550017663,3793.849760085849,2791.3859641753675
+5,Prevalence,165,Pakistan,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,6287002.840139718,7142633.483889261,5527458.865535556
+5,Prevalence,165,Pakistan,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2926.832446516791,3325.1601702409553,2573.236622567969
+5,Prevalence,165,Pakistan,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,6363478.241871355,7498425.076082512,5378606.960855253
+5,Prevalence,165,Pakistan,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,2962.434575677526,3490.7943209972705,2503.9405532927003
+5,Prevalence,112,Grenada,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,3602.522678421924,4126.384183353749,3159.9702032253817
+5,Prevalence,112,Grenada,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3470.3184419462427,3974.955443256385,3044.006617345525
+5,Prevalence,112,Grenada,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,4725.256478789189,5927.406643314106,3778.1706108466283
+5,Prevalence,112,Grenada,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4551.850512833205,5709.884551293998,3639.520502167608
+5,Prevalence,349,Greenland,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,3054.080805762413,3481.248643993113,2670.804616769484
+5,Prevalence,349,Greenland,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,5440.739677999466,6201.724456870384,4757.946359253047
+5,Prevalence,369,Nauru,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,274.1636695580856,328.9960709308335,226.22132341180412
+5,Prevalence,369,Nauru,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2620.3809825137646,3144.4540007014252,2162.161218015784
+5,Prevalence,109,Cuba,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,275719.4201554488,317915.6105944776,240832.37079079027
+5,Prevalence,109,Cuba,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2415.4048235031455,2785.059169440857,2109.781275964565
+5,Prevalence,143,Iraq,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,1470672.5981414027,1705715.765169318,1277014.2785390131
+5,Prevalence,143,Iraq,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3628.4687861254556,4208.371339576623,3150.671641649649
+5,Prevalence,143,Iraq,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,2172031.235615372,2772283.3798817727,1692792.785394013
+5,Prevalence,143,Iraq,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,5358.872906777394,6839.825344476991,4176.487541103948
+5,Prevalence,522,Sudan,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,1454386.9827082595,1702425.6224036778,1254785.8681858373
+5,Prevalence,522,Sudan,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3700.5304672636958,4331.637974525851,3192.6670070073424
+5,Prevalence,522,Sudan,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,1797766.4271571506,2304645.9332452104,1386607.328361319
+5,Prevalence,522,Sudan,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4574.22234646975,5863.922459171253,3528.072463339324
+5,Prevalence,144,Jordan,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,530847.5508277261,672405.8668990802,413036.2496489289
+5,Prevalence,144,Jordan,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4968.754273460227,6293.74576457033,3866.0357900061545
+5,Prevalence,132,Panama,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,83481.15186833576,98528.66444296142,70989.63473978697
+5,Prevalence,132,Panama,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2076.324348357291,2450.582681426104,1765.638156546782
+5,Prevalence,81,Germany,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,2532069.0703345286,2786030.3744436116,2280940.3583001266
+5,Prevalence,81,Germany,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3010.202765988019,3312.1198933837914,2711.6531124886014
+5,Prevalence,163,India,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,41569236.16923746,48647176.16944128,35586779.44788785
+5,Prevalence,163,India,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3059.2981186099596,3580.200846726047,2619.0177507490152
+5,Prevalence,201,Burkina Faso,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,129258.97490946743,149575.0868311062,111485.13463536362
+5,Prevalence,201,Burkina Faso,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,607.5009061475695,702.9840740315431,523.9660948913079
+5,Prevalence,46,Croatia,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,169427.40169557746,193888.25552038202,149100.8394800035
+5,Prevalence,46,Croatia,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3957.079795683438,4528.37788257269,3482.3405985170234
+5,Prevalence,522,Sudan,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,256162.2481468941,302196.9632570281,215512.9437444359
+5,Prevalence,522,Sudan,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,651.7771508551069,768.9075073848633,548.3493897414425
+5,Prevalence,171,Democratic Republic of the Congo,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4059.3721542939143,4746.204757660091,3503.2485294020144
+5,Prevalence,171,Democratic Republic of the Congo,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,2795390.7485167026,3550068.437132095,2166385.864743462
+5,Prevalence,171,Democratic Republic of the Congo,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3356.0330081318793,4262.06850060743,2600.8751993928777
+5,Prevalence,90,Norway,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,133748.61738609767,148019.04899464932,121290.73623916623
+5,Prevalence,90,Norway,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2540.2697197959246,2811.3061313273865,2303.658838361453
+5,Prevalence,154,Tunisia,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,100573.74833395483,116652.57298835061,86821.53823758148
+5,Prevalence,154,Tunisia,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,880.3522042758608,1021.0949821989886,759.9749818638405
+5,Prevalence,176,Comoros,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,23942.378469612053,30117.463193482057,18837.781986902846
+5,Prevalence,176,Comoros,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3430.258583360285,4314.971746002696,2698.9157920988405
+5,Prevalence,117,Saint Vincent and the Grenadines,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,3438.123884755913,3935.0500737098505,2976.834871028458
+5,Prevalence,117,Saint Vincent and the Grenadines,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3045.480859048239,3485.6567362262203,2636.8722955159387
+5,Prevalence,98,Chile,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,727910.8760942074,837605.5819293258,636972.6863904251
+5,Prevalence,98,Chile,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4064.197639779375,4676.664054546452,3556.455843224479
+5,Prevalence,77,Cyprus,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,44487.57048601722,51561.22418095782,38699.182575359024
+5,Prevalence,77,Cyprus,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3489.874303179379,4044.7745144040427,3035.7981195273746
+5,Prevalence,77,Cyprus,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,87547.85662358951,110376.96492495538,70141.3049430398
+5,Prevalence,77,Cyprus,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,6867.783783003575,8658.63721813276,5502.30851084846
+5,Prevalence,141,Egypt,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,681497.2816969977,803914.033419565,576177.4849159404
+5,Prevalence,141,Egypt,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,710.690949725715,838.3517341200538,600.8595117882588
+5,Prevalence,179,Ethiopia,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,3083338.3787335493,3709570.044375968,2579448.801681548
+5,Prevalence,179,Ethiopia,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3008.072014717604,3619.016944129693,2516.4827212127543
+5,Prevalence,416,Tuvalu,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,463.2319640870938,579.7122392757101,371.70341502455085
+5,Prevalence,416,Tuvalu,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4007.952322777033,5015.75710675811,3216.0336097871423
+5,Prevalence,92,Spain,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,2594129.146128286,2854216.5726787997,2359914.2045675637
+5,Prevalence,92,Spain,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,5592.043347048601,6152.701695713895,5087.157108948702
+5,Prevalence,92,Spain,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,2626024.0788389193,2986184.268737448,2301848.983025346
+5,Prevalence,92,Spain,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,5660.7977675967295,6437.178310099694,4961.98861596728
+5,Prevalence,78,Denmark,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,234196.82518761788,264339.6488417245,207095.89827674118
+5,Prevalence,78,Denmark,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,4078.743299448577,4603.707034149742,3606.7568668484305
+5,Prevalence,210,Liberia,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,176183.72891474838,198569.24612593546,156797.34467362548
+5,Prevalence,210,Liberia,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3823.7083455969496,4309.540320593563,3402.9664321958553
+5,Prevalence,210,Liberia,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,152552.03623053056,195105.73937080379,115630.94369091185
+5,Prevalence,210,Liberia,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3310.83067469154,4234.371973515174,2509.533696009649
+5,Prevalence,210,Liberia,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,36471.5833773661,42935.19200402419,31246.245154413115
+5,Prevalence,210,Liberia,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,791.5412995070045,931.8207362101748,678.1359953126537
+5,Prevalence,112,Grenada,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,2640.523086147741,3097.061840780016,2255.64987757303
+5,Prevalence,112,Grenada,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2543.6220060819555,2983.4068460645776,2172.872752641332
+5,Prevalence,146,Lebanon,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,60329.5434115237,69027.42885370007,52853.122071769445
+5,Prevalence,146,Lebanon,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1187.240122416563,1358.4079780506609,1040.1097633137267
+5,Prevalence,38,Mongolia,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,127127.66492184029,147096.18345946062,110561.43781792684
+5,Prevalence,38,Mongolia,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3886.602664267214,4497.088960837672,3380.132711888939
+5,Prevalence,38,Mongolia,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,68125.30589481878,86490.8374053367,52984.06074325439
+5,Prevalence,38,Mongolia,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,2082.7566962518295,2644.235771190769,1619.8519163789845
+5,Prevalence,147,Libya,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,310294.8290452641,362049.00092510623,267928.4039019665
+5,Prevalence,147,Libya,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4680.055391617031,5460.643298576954,4041.0591923393913
+5,Prevalence,147,Libya,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,375983.59527386,468868.90880539786,298108.3512665378
+5,Prevalence,147,Libya,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,5670.813328198583,7071.766137282938,4496.251519639426
+5,Prevalence,177,Djibouti,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,42831.25592125657,49817.60897411327,36839.99497533807
+5,Prevalence,172,Equatorial Guinea,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,57958.04242238334,68233.06733522992,49394.29084404509
+5,Prevalence,172,Equatorial Guinea,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4334.554689917375,5103.001234409305,3694.090519360131
+5,Prevalence,172,Equatorial Guinea,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,46344.11531677198,59582.99034047387,35644.75568130619
+5,Prevalence,172,Equatorial Guinea,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3465.9745912813232,4456.080975568988,2665.7929849213715
+5,Prevalence,67,Japan,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,3259496.9767723484,3549075.7257913626,2987255.2726031896
+5,Prevalence,67,Japan,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2534.3670948936656,2759.5241845072264,2322.6901331351955
+5,Prevalence,185,Rwanda,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,477022.4109795165,553602.7090984689,410808.2096848858
+5,Prevalence,185,Rwanda,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3927.2892524626823,4557.769026222964,3382.1527659591793
+5,Prevalence,185,Rwanda,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,407359.67668377265,519660.0332789182,316715.6168346697
+5,Prevalence,185,Rwanda,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3353.761255874308,4278.321556087918,2607.495600736667
+5,Prevalence,133,Venezuela (Bolivarian Republic of),3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,934206.1471810016,1070086.5526562713,817731.0888383897
+5,Prevalence,133,Venezuela (Bolivarian Republic of),3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3322.532735445104,3805.7955534638622,2908.2856280224346
+5,Prevalence,380,Palau,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,297.2950260574709,345.0285270542157,254.08459571344613
+5,Prevalence,380,Palau,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1653.8303874509927,1919.3683464768462,1413.4539381525506
+5,Prevalence,179,Ethiopia,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,3323442.2226198027,3778886.5895876735,2920627.368703135
+5,Prevalence,179,Ethiopia,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3242.314762254455,3686.6414258428813,2849.3328898992763
+5,Prevalence,422,United States Virgin Islands,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,4066.162809655621,4626.947546570517,3573.064076486023
+5,Prevalence,422,United States Virgin Islands,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3871.072740020782,4404.951635114711,3401.6323478213167
+5,Prevalence,155,Turkey,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,3861282.0020749704,4804030.952215857,3054706.6139713335
+5,Prevalence,155,Turkey,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4786.743593340374,5955.44805335915,3786.850405151488
+5,Prevalence,172,Equatorial Guinea,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,17398.149397355304,20505.531911426937,14682.846131730112
+5,Prevalence,172,Equatorial Guinea,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1301.169378989672,1533.5636919579563,1098.0978118240735
+5,Prevalence,101,Canada,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,1255398.8330585987,1425634.9906234923,1124875.1631151685
+5,Prevalence,101,Canada,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3489.579401856683,3962.77769808447,3126.7682393039504
+5,Prevalence,213,Niger,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,110780.2240903994,131467.84820478185,94898.54192112923
+5,Prevalence,213,Niger,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,513.9351169063734,609.9097965483302,440.25631503219404
+5,Prevalence,176,Comoros,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,10232.788256404736,12256.367256263042,8454.660232101283
+5,Prevalence,176,Comoros,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1466.0661133893361,1755.987152027234,1211.311184783481
+5,Prevalence,200,Benin,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,339825.19357601064,437176.981422532,258253.89192305307
+5,Prevalence,200,Benin,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,2861.3533042154145,3681.0625697193427,2174.5169014822677
+5,Prevalence,187,Somalia,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,214936.1410638467,261084.88667002766,176888.37786833663
+5,Prevalence,187,Somalia,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1134.0269783184858,1377.5128912688822,933.2827492892471
+5,Prevalence,146,Lebanon,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,256664.52821490503,290731.81363835465,227187.55813021932
+5,Prevalence,146,Lebanon,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,5050.96522642748,5721.383827818892,4470.88058476041
+5,Prevalence,215,Sao Tome and Principe,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,5972.603639922514,6984.5353930415795,5131.671531703615
+5,Prevalence,215,Sao Tome and Principe,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3002.071015626012,3510.7086498939675,2579.3846864481425
+5,Prevalence,215,Sao Tome and Principe,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,5946.551017097756,7544.700712629259,4545.055433289068
+5,Prevalence,215,Sao Tome and Principe,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,2988.9759186501387,3792.270288883773,2284.5278212480976
+5,Prevalence,180,Kenya,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,1719367.1016323164,1920410.999071104,1532562.600060268
+5,Prevalence,180,Kenya,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3573.6651331656944,3991.53026844172,3185.3962559999936
+5,Prevalence,180,Kenya,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,1506916.9058662676,1806877.831290435,1265789.6185907521
+5,Prevalence,180,Kenya,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3132.092268114033,3755.55418004824,2630.9147253000183
+5,Prevalence,92,Spain,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,1300268.930263329,1445224.3710880855,1166748.7251476268
+5,Prevalence,92,Spain,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2802.9291570564988,3115.4028477716984,2515.1058712234867
+5,Prevalence,68,Republic of Korea,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,1330111.1975408688,1486087.7162119655,1201883.204455027
+5,Prevalence,68,Republic of Korea,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2526.2082772515096,2822.446045381186,2282.67178337965
+5,Prevalence,367,Monaco,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,1141.1622030248009,1274.3254710255062,1011.4036920438156
+5,Prevalence,367,Monaco,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3062.8832412525044,3420.293906299663,2714.6109556474557
+5,Prevalence,155,Turkey,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,763541.6888654557,897704.4595508935,653383.073675332
+5,Prevalence,155,Turkey,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,946.5452887048797,1112.8638281687693,809.9841555814218
+5,Prevalence,416,Tuvalu,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,350.2702610079332,414.3942670932347,293.7831654358898
+5,Prevalence,416,Tuvalu,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3030.590751597007,3585.4012548873893,2541.855941703073
+5,Prevalence,146,Lebanon,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,327779.840496704,404669.812547575,262226.9204811413
+5,Prevalence,146,Lebanon,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,6450.461182881341,7963.598108310903,5160.428930305502
+5,Prevalence,68,Republic of Korea,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,1847482.1172253795,2298894.420326208,1474106.2042602699
+5,Prevalence,68,Republic of Korea,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3508.8228903249246,4366.165869359158,2799.69020758182
+5,Prevalence,189,United Republic of Tanzania,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,746774.4062449937,886807.0801093567,627644.950120354
+5,Prevalence,189,United Republic of Tanzania,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1386.6071925114156,1646.6192003455858,1165.4081807067632
+5,Prevalence,151,Qatar,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,123777.78185972467,147199.28163427717,103996.85123641625
+5,Prevalence,151,Qatar,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4653.922589290317,5534.547894075449,3910.1790960571884
+5,Prevalence,151,Qatar,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,122142.03900893917,159275.43403679412,92719.3975281031
+5,Prevalence,151,Qatar,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4592.420270464082,5988.5993208612235,3486.157952890525
+5,Prevalence,157,Yemen,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,1189909.0769622712,1381200.1508967292,1026501.0944589577
+5,Prevalence,157,Yemen,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3939.2737854376173,4572.555712206306,3398.300702477463
+5,Prevalence,135,Brazil,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,8698145.761143906,9545939.715524685,7970216.309628904
+5,Prevalence,135,Brazil,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4081.6153363834806,4479.4436668480985,3740.033567728672
+5,Prevalence,135,Brazil,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,16872513.132103004,19765681.850139864,14448752.913054159
+5,Prevalence,135,Brazil,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,7917.447034627119,9275.06992743217,6780.094643272745
+5,Prevalence,215,Sao Tome and Principe,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,1566.963534842249,1800.1526183347721,1351.6341996273368
+5,Prevalence,215,Sao Tome and Principe,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,787.6189504773209,904.8291708297937,679.3857585504762
+5,Prevalence,200,Benin,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,81546.42900076824,95863.98420707113,69616.13194468197
+5,Prevalence,200,Benin,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,686.626973159143,807.1818486430227,586.1729881485572
+5,Prevalence,113,Guyana,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,38278.64667400116,44547.56836215556,33536.97090830751
+5,Prevalence,113,Guyana,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,5024.770827981979,5847.681185545286,4402.339364662012
+5,Prevalence,186,Seychelles,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,1746.1929746981632,2055.8836345363966,1490.347711843163
+5,Prevalence,186,Seychelles,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1738.9619250906485,2047.3701444674198,1484.176126919311
+5,Prevalence,125,Colombia,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,1099470.6095856274,1250979.1779395589,980220.2304106071
+5,Prevalence,125,Colombia,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2332.6451741392348,2654.086900484916,2079.6426663216566
+5,Prevalence,68,Republic of Korea,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,2358166.766424345,2710994.1419306113,1990818.1184507061
+5,Prevalence,68,Republic of Korea,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,4478.738631397445,5148.844588021775,3781.053207153323
+5,Prevalence,135,Brazil,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,9481841.44963884,10637782.51804084,8391334.452980997
+5,Prevalence,135,Brazil,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,4449.365478661834,4991.792212164241,3937.6437618477
+5,Prevalence,102,United States of America,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,15119450.177652359,16646069.237997092,13861723.75300411
+5,Prevalence,102,United States of America,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4658.557273855751,5128.934320931681,4271.03057710285
+5,Prevalence,102,United States of America,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,17984399.796609025,20860070.960359745,15542067.981769077
+5,Prevalence,102,United States of America,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,5541.296509066034,6427.339232822558,4788.772937937167
+5,Prevalence,203,Cabo Verde,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,25601.003478465707,29458.412603064462,22331.512814279606
+5,Prevalence,203,Cabo Verde,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4630.576719079046,5328.284873501771,4039.2082062955074
+5,Prevalence,369,Nauru,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,150.08468560718424,185.05031996874482,124.17713077270683
+5,Prevalence,369,Nauru,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1434.4681648211633,1768.6600855459164,1186.850878033593
+5,Prevalence,422,United States Virgin Islands,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,4892.676117011247,6120.354642998663,3957.8249170358204
+5,Prevalence,422,United States Virgin Islands,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4657.930837726849,5826.706683143938,3767.9327816708774
+5,Prevalence,113,Guyana,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,33732.746665218445,43149.47881384883,26910.40911400714
+5,Prevalence,113,Guyana,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4428.038504982463,5664.156422063781,3532.4822174803776
+5,Prevalence,211,Mali,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,109465.0098201258,129787.53180676707,92868.83461924459
+5,Prevalence,211,Mali,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,536.9814993453659,636.6737968639784,455.56882640620853
+5,Prevalence,203,Cabo Verde,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,17311.949741409757,21748.699442541238,13517.669117306588
+5,Prevalence,203,Cabo Verde,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3131.2956736976644,3933.791946616089,2445.0058750027188
+5,Prevalence,197,Eswatini,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,40918.299206289965,47777.810043558406,35333.2883497378
+5,Prevalence,197,Eswatini,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3638.3731678468585,4248.307125488866,3141.7651944761296
+5,Prevalence,197,Eswatini,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,37369.24393656287,47539.69394325918,29142.48392955535
+5,Prevalence,197,Eswatini,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3322.7982853357207,4227.134319019241,2591.2912713977944
+5,Prevalence,169,Central African Republic,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,229634.46505814773,268697.91046115133,195329.64928992078
+5,Prevalence,169,Central African Republic,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4551.939045540182,5326.2758696673145,3871.9303617134146
+5,Prevalence,169,Central African Republic,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,196884.84188364985,251548.6270977583,152032.9187293084
+5,Prevalence,169,Central African Republic,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3902.7582336922037,4986.333463700097,3013.679060746118
+5,Prevalence,211,Mali,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,481515.08525426855,561306.9207408979,411182.3937228526
+5,Prevalence,211,Mali,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2362.0761818057244,2753.4956822062204,2017.0585893020134
+5,Prevalence,211,Mali,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,488473.84996882913,635320.8269289235,370439.65926498984
+5,Prevalence,211,Mali,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,2396.212458924382,3116.57150326138,1817.1947727951353
+5,Prevalence,213,Niger,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,551037.1779373438,636280.4542619297,469523.1016957236
+5,Prevalence,213,Niger,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2556.389091900471,2951.8523936140405,2178.226413076439
+5,Prevalence,213,Niger,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,537346.1277126598,692082.9996788861,401797.8105121748
+5,Prevalence,213,Niger,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,2492.873138980461,3210.7333260007995,1864.0331017004617
+5,Prevalence,197,Eswatini,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,27579.118584738113,31934.53323745016,23521.91309177257
+5,Prevalence,197,Eswatini,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2452.2799578178224,2839.5547007728924,2091.5213757558986
+5,Prevalence,113,Guyana,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,19722.01566961885,22637.844088568967,17224.170214547055
+5,Prevalence,113,Guyana,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,2588.874414753331,2971.6300984565532,2260.9866217928547
+5,Prevalence,422,United States Virgin Islands,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,3188.658697639346,3623.828451343664,2796.714923026685
+5,Prevalence,422,United States Virgin Islands,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3035.6703210089263,3449.9611031797995,2662.5315824613617
+5,Prevalence,147,Libya,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,96117.88593657721,109550.80515150135,84240.40193647626
+5,Prevalence,147,Libya,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1449.708432758605,1652.3118927981893,1270.5649929386373
+5,Prevalence,374,Niue,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,56.03560513328777,65.95052651293969,47.59054992556844
+5,Prevalence,374,Niue,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3376.4099906940105,3973.830854153474,2867.555509556849
+5,Prevalence,374,Niue,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,69.12945247732993,85.00708087222458,55.22036644040403
+5,Prevalence,374,Niue,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4165.376164680829,5122.0783010017,3327.2880072532025
+5,Prevalence,298,American Samoa,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,1397.0010309044535,1641.1269306586435,1198.379958010792
+5,Prevalence,298,American Samoa,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2508.924324149269,2947.358795204433,2152.213605941063
+5,Prevalence,298,American Samoa,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,2236.177892400772,2818.6068649142817,1763.9537014753228
+5,Prevalence,298,American Samoa,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4016.032188420669,5062.037297867402,3167.947804189746
+5,Prevalence,214,Nigeria,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,5495328.474080511,6562101.460070959,4611109.882023884
+5,Prevalence,214,Nigeria,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,2699.712271837422,3223.790156376426,2265.3186236285214
+5,Prevalence,152,Saudi Arabia,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,367339.2066287235,430423.9498636741,310708.75592118845
+5,Prevalence,152,Saudi Arabia,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1075.5854765758527,1260.3004005278985,909.7690071823931
+5,Prevalence,396,San Marino,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,1563.703049031327,1846.0299378405473,1333.0515547082346
+5,Prevalence,396,San Marino,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4775.820754316896,5638.0961178599,4071.3710224545616
+5,Prevalence,212,Mauritania,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,25641.21375462956,29591.063758859014,21846.657925241994
+5,Prevalence,212,Mauritania,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,663.675118318518,765.9096378690629,565.4600995938165
+5,Prevalence,176,Comoros,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,25942.397085896468,30203.885040430374,22322.184495546662
+5,Prevalence,176,Comoros,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3716.8040923663125,4327.353526812842,3198.131090542464
+5,Prevalence,136,Paraguay,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,246977.26948942745,284021.0408657312,214321.83317883755
+5,Prevalence,136,Paraguay,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3656.057753199286,4204.424685217193,3172.652291011404
+5,Prevalence,136,Paraguay,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,423454.4538286218,531449.0061601022,335853.8048456595
+5,Prevalence,136,Paraguay,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,6268.487550483569,7867.1541855590585,4971.716262334082
+5,Prevalence,191,Zambia,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,515695.4252933067,604036.3558212483,442774.12302277714
+5,Prevalence,191,Zambia,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3003.730667051983,3518.2831512664097,2578.9916812702522
+5,Prevalence,190,Uganda,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,1677164.0248449922,1951621.5130039921,1447010.4088075277
+5,Prevalence,190,Uganda,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4294.54921897599,4997.32555686237,3705.2174557398057
+5,Prevalence,190,Uganda,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,1330537.5727373788,1727293.0587781884,1026549.3213955782
+5,Prevalence,190,Uganda,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3406.9769021820193,4422.909713439687,2628.584038968498
+5,Prevalence,413,Tokelau,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,52.303572325410556,64.93951572113113,41.57643174640116
+5,Prevalence,413,Tokelau,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3834.852375593925,4761.308741661444,3048.3477698127517
+5,Prevalence,191,Zambia,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,596176.5911148721,761806.5023307159,461137.182718455
+5,Prevalence,191,Zambia,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3472.5029966898446,4437.234540346966,2685.949553773082
+5,Prevalence,136,Paraguay,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,215127.11699321406,248471.09071334597,184121.26276155835
+5,Prevalence,136,Paraguay,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,3184.573080884754,3678.171110751952,2725.5867377586933
+5,Prevalence,376,Northern Mariana Islands,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,1433.6429192458918,1698.9501486222648,1219.081761113275
+5,Prevalence,376,Northern Mariana Islands,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3232.686611864561,3830.9214421157485,2748.8778656208947
+5,Prevalence,376,Northern Mariana Islands,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,1930.3304335274634,2410.983579539366,1527.3051056253132
+5,Prevalence,376,Northern Mariana Islands,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4352.655228975231,5436.46833836552,3443.883201951293
+5,Prevalence,177,Djibouti,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3747.7744513060143,4359.08679590401,3223.533585114713
+5,Prevalence,177,Djibouti,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,35440.96122827774,45642.01877626449,27514.511395359033
+5,Prevalence,177,Djibouti,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,3101.116840123925,3993.7187970904383,2407.545159013622
+5,Prevalence,413,Tokelau,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,18.1464791956061,21.85809439960211,15.22179875454307
+5,Prevalence,413,Tokelau,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1330.484052197855,1602.616446784211,1116.0490291465755
+5,Prevalence,376,Northern Mariana Islands,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,793.4418686987034,934.1032936065403,681.2977221274649
+5,Prevalence,376,Northern Mariana Islands,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1789.1128061262862,2106.2868380983064,1536.241692717857
+5,Prevalence,177,Djibouti,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,18259.35329617507,21891.185983687137,15150.745298547756
+5,Prevalence,177,Djibouti,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1597.7102774334799,1915.4989918876986,1325.7042065853145
+5,Prevalence,214,Nigeria,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,5444528.676542299,6141922.367210353,4826514.32204212
+5,Prevalence,214,Nigeria,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,2674.7556495958893,3017.367071984715,2371.141235119057
+5,Prevalence,201,Burkina Faso,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,666043.336614725,769642.4918745317,576686.0292888397
+5,Prevalence,201,Burkina Faso,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3130.3198157837164,3617.2228005902725,2710.3517229731165
+5,Prevalence,191,Zambia,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,246258.26271975558,294883.8896541575,205840.02612119776
+5,Prevalence,191,Zambia,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1434.3611741864222,1717.587046792176,1198.9402438762486
+5,Prevalence,202,Cameroon,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,918435.4005565402,1069889.0116346392,793572.6289757963
+5,Prevalence,202,Cameroon,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,3338.4499330534195,3888.9734619352434,2884.58228904492
+5,Prevalence,202,Cameroon,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,818817.0033663753,1057477.4595113792,625646.7607397304
+5,Prevalence,202,Cameroon,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,2976.34386524629,3843.858317930692,2274.1832307868003
+5,Prevalence,155,Turkey,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,3517285.9396419125,4012244.122497768,3096288.820766678
+5,Prevalence,155,Turkey,3,Both,22,All Ages,567,Depressive disorders,3,Rate,2017,4360.299488221686,4973.887905095534,3838.39892242311
+5,Prevalence,202,Cameroon,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,228562.60397710718,261511.52464376728,196056.401555218
+5,Prevalence,202,Cameroon,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,830.8094499444488,950.5765254808867,712.6516249810195
+5,Prevalence,156,United Arab Emirates,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,408421.21241106227,526957.4781921682,312062.1379137447
+5,Prevalence,156,United Arab Emirates,3,Both,22,All Ages,571,Anxiety disorders,3,Rate,2017,4455.483484055949,5748.600389839562,3404.298452731934
+5,Prevalence,156,United Arab Emirates,3,Both,22,All Ages,973,Substance use disorders,1,Number,2017,163962.9580966368,190631.50300215627,139615.8402785242
+5,Prevalence,156,United Arab Emirates,3,Both,22,All Ages,973,Substance use disorders,3,Rate,2017,1788.6785250058583,2079.606757329788,1523.0748344370506
